@@ -1,0 +1,4 @@
+About LitentryThis page discusses the general functionality of the Litentry protocol.Litentry is a decentralized, cross-chain identity aggregator that enables users to link their identities in a privacy-preserving context. We aim to give users full control over their personal data and enable them to gain social and economic value from it. Our protocol can be adopted in on-chain reputation, governance, DeFi, and customized data services.Our Mission statement
+Litentry is unlocking verifiable personal data in a private and secure way, to pave the way for identity-based social and economic innovations.Guides: Jump right inFollow our handy guides to get started on the basics as quickly as possible.
+The parachain is our blockchain on the Kusama & Polkadot ecosystem. 
+The Identity Hub is the interface to our protocol and it allows users to interact with the parachain. ParachainIdentityHubNextProblem & SolutionLast modified 2mo agoCopy link
