@@ -75,7 +75,7 @@ def deeper(name_prefix, href, new_soup):
             new_name_prefix = name_prefix + str(n+1) + '_'
             name = new_name_prefix + deeper_soups[n].get_text() + '.txt'
             new_href = deeper_soups[n].attrs['href']
-            new_soup = BeautifulSoup(getHTML(_BASE_URL + href), 'html.parser')
+            new_soup = BeautifulSoup(getHTML(_BASE_URL + new_href), 'html.parser')
             write_text_to_file(new_soup, name)
             deeper(new_name_prefix, new_href, new_soup)
 
