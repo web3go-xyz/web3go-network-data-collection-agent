@@ -1,7 +1,6 @@
 import urllib.request
 import http.cookiejar
 from bs4 import BeautifulSoup
-import os
 import re
 
 _BASE_URL = 'https://docs.litentry.com'
@@ -83,7 +82,7 @@ def deeper(name_prefix, href, new_soup):
 def write_text_to_file(soup, file_name):
     text_soup = soup.find('div', attrs={'class': 'css-175oi2r r-13awgt0'})
     open(_FILE_BASE_PATH + file_name,
-         mode='w').write(text_soup.get_text())
+         mode='w').write(text_soup.get_text('\r\n'))
 
 
 def parseIndex(index_soup):

@@ -1,7 +1,7 @@
 import urllib.request
 import http.cookiejar
-from bs4 import BeautifulSoup
 import re
+from bs4 import BeautifulSoup
 
 _BASE_URL = 'https://docs.litentry.com'
 _HOME_URL = _BASE_URL + '/v/chinese'
@@ -68,8 +68,9 @@ def deeper(name_prefix, href, new_soup):
 
 def write_text_to_file(soup, file_name):
     text_soup = soup.find('div', attrs={'class': 'css-175oi2r r-13awgt0'})
+    b_soup = BeautifulSoup(str(text_soup), 'lxml')
     open(_FILE_BASE_PATH + file_name,
-         mode='w').write(text_soup.get_text())
+         mode='w').write(b_soup.get_text('\r\n'))
 
 
 if __name__ == '__main__':
