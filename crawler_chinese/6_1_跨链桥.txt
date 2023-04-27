@@ -1,0 +1,1 @@
+跨链桥概览Litentry团队部署了跨链桥，以允许在以太坊（ERC20代币）和 Litmus/Litentry 平行链之间传输LIT代币。平行链 - Previous功能栈与模块Next代币经济模型重新审视Last modified 2mo agoCopy link

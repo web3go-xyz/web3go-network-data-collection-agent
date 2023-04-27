@@ -1,11 +1,11 @@
 import urllib.request
 import http.cookiejar
 from bs4 import BeautifulSoup
-import os
 import re
 
 _BASE_URL = 'https://docs.litentry.com'
-_FILE_BASE_PATH = '/Users/zhangqixin/web3go_workspace/Litentry/crawler/'
+_HOME_URL = _BASE_URL + '/v/chinese'
+_FILE_BASE_PATH = '/Users/zhangqixin/web3go_workspace/Litentry/crawler_chinese/'
 __MEAU_CLASS = 'css-175oi2r r-1yzf0co r-1sc18lr'
 
 
@@ -21,12 +21,9 @@ def getHTML(url):
 
 
 def parseHead(soup):
-    # 1. the text of About Litentry
-    write_text_to_file(soup, '1_About_Litentry.txt')
-    # 2. the text near About Litentry
-    # crs = soup.find_all('div', attrs={'class': 'css-175oi2r r-1jkjb'})
+    write_text_to_file(soup, '1_Litentry介绍.txt')
     head_soups = soup.find('div', class_='css-175oi2r r-1yzf0co r-1sc18lr').find_all(
-        href=re.compile('^/about\\-litentry.*'))
+        href=re.compile('^/v/chinese/litentry\\-jie\\-shao.*'))
     for n in range(len(head_soups)):
         name = '1_' + str(n+1) + '_' + head_soups[n].get_text() + '.txt'
         # request for each item
@@ -43,19 +40,8 @@ def parseNext(head_soups, soup):
         i for i in first_layer_soups if i not in head_soups]
     seq = 2
     for first_layer_soup in new_first_layer_soups:
-        # name_f_prefix = str(n+2) + '_'
-        # second_layer_soups = first_layer_soup.find_all('a')
-        # for second_layer_soup in second_layer_soups:
-        #     name_prefix = str(seq) + '_'
-        #     seq += 1
-        #     name = name_prefix + second_layer_soup.get_text() + '.txt'
-        #     href = second_layer_soup.attrs['href']
-        #     cr_soup = BeautifulSoup(getHTML(_BASE_URL + href), 'html.parser')
-        #     write_text_to_file(cr_soup, name)
-        #     # deeper
-        #     deeper(name_prefix, href, cr_soup)
         href = first_layer_soup.attrs['href']
-        if href != '/':
+        if href != '/v/chinese/':
             name_prefix = str(seq) + '_'
             seq += 1
             name = name_prefix + first_layer_soup.get_text() + '.txt'
@@ -86,26 +72,8 @@ def write_text_to_file(soup, file_name):
          mode='w').write(text_soup.get_text())
 
 
-def parseIndex(index_soup):
-    layer = ["css-175oi2r r-1r5su4o", "", ""]
-    aaa = index_soup.find_all(
-        name='div', attrs={"class": "css-175oi2r r-1jkjb"})
-    file = open(
-        _FILE_BASE_PATH + '/urls.txt', mode="w")
-    for aa in aaa:
-        print("==>"+aa.a.attrs['href'])
-        file.write(aa.a.attrs['href'])
-
-
 if __name__ == '__main__':
-    html_doc = getHTML(_BASE_URL)
-    # 先把首页html采集下来
-    # os.mknod('/Users/zhangqixin/web3go_workspace/Litentry/crawler/home.html')
-    # home = open(
-    #     '/Users/zhangqixin/web3go_workspace/Litentry/crawler/home.html', mode='w')
-    # home.write(html_doc)
+    html_doc = getHTML(_HOME_URL)
     soup = BeautifulSoup(html_doc, 'html.parser')
     head_soups = parseHead(soup)
     parseNext(head_soups, soup)
-    # parseIndex(soup)
-    # print(soup.title)

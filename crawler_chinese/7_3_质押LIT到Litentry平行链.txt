@@ -1,0 +1,1 @@
+质押LIT到Litentry平行链概览Litentry使用委托证明的权益共识机制，允许LIT持有者抵押资产，通过其抵押平台抵押他们所需的收集器。抵押平台旨在允许委托人和收集器共享风险和回报。PreviousLIT从平行链转移到以太坊Next如何质押Last modified 2mo agoCopy link
