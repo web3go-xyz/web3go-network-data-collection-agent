@@ -1,0 +1,25 @@
+👨🚀
+How To Participate?
+Step 1: Click [Connect Wallet] to login into the ApolloX DEX platform.
+ 
+Step 2: Click [APX DAO] under [Governance] to access the page. The homepage will display the total locked supply, average locked period, total power and veNFT supply. 
+Total Locked Supply: the total amount of APX staked by users participating in DAO Governance.
+Average Locked Period: the average locked time of users participating in DAO Governance, which is equal to the sum of the locked time of all users divided by the total number of users.
+Total Power: the sum of the power of all users currently participating in DAO Governance.
+veNFT Supply: the amount of veNFT issued by the system.
+ 
+Step 3: Click [Lock & get veNFT] to stake and enjoy multiple benefits. The amount of APX distributed by the current DAO's revenue dividends and Trading Rewards Program will also be displayed.
+Staking Rewards
+Users can obtain veNFT by staking APX in ApolloX DAO. The power is a proof of the user’s governance vote as well as dividend weight. ApolloX will withdraw 50,000 APX from income everyday to reward users.
+ 
+Repurchase Rewards 
+ApolloX will set aside a portion of trading fee income every day, used to repurchase APX from the secondary market from time to time. The repurchased APX will be added into the DAO reward pool.
+Programs - 
+Previous
+Retroactive Mining Rewards
+Next
+ - ApolloX DAO
+Get Voting Power
+Last modified 
+4mo ago
+Copy link

@@ -1,0 +1,25 @@
+💡
+How to sell?
+Step 1: Click to access the 
+ApolloX LP Dashboard
+ page and connect your wallet.
+Click to learn 
+how to connect wallet
+​
+Step 2: After connecting your wallet, click on 
+[Sell ALP]
+. Users can sell ALP for USDC or USDT or ETH.
+Transaction fee: 0.20% - 0.40%
+
+
+Please Note:
+User may sell their ALP 48 hours from the time of buying
+Amount of ALP tokens that can be sold: min[(Value of the liquidity pool - Value of user’s positions)*50%]/ALP Market Price. For instance, the value of the liquidity pool is 10,000,000 USDT, the value of the user's position is 5,000,000 USDT and ALP Market Price is 2 USDT, the maximum amount the ALP user can sell is 1,250,000. 
+At the same time, the amount of USDC or ETH or USDT that users receive after selling their ALP tokens cannot exceed the ALP liquidity pool. For instance, if the liquidity pool only has 1000 USDT, the maximum amount of USDT users receive will be 1000 USDT and the remaining ALPs can be sold for other cryptocurrencies. 
+Previous
+How to stake/unstake?
+Next
+Rewards Distribution Rules
+Last modified 
+20d ago
+Copy link

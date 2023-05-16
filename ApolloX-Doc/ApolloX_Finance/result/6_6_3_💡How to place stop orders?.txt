@@ -1,0 +1,14 @@
+💡
+How to place stop orders?
+Users can set 
+[Take profit]
+ and 
+[Stop loss]
+ orders when they are placing their orders. When opening a position, users can set a take profit or stop loss price. When the specified price is reached, the order will be executed. If UnrealizedPNL<= 90%, the user's position will be liquidated. At the same time, the unrealizedPNL cap of each trade will be 90%. Even if users do not place any take profit or stop loss orders, the unrealizedPNL cap will be set at 90% by default.
+Previous
+Opening a position
+Next
+Position management
+Last modified 
+1mo ago
+Copy link

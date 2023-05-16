@@ -1,0 +1,20 @@
+💡
+Opening a position
+Users can choose to "Buy/Long" or "Sell/Short" to open their positions with leverage.
+Long position: If the price rises, you will earn a profit. If price falls, you will make a loss.
+Short position: If the price falls, you will earn a profit. If price rises, you will make a loss.
+​
+Reminder: When users trade ALP-PERP contracts, they trade directly with the ALP liquidity pool. ALP-PERP does not use an order book and has low slippage. ALP-PERP contract price will be anchored using the current mark price and fixed slippage. (Fixed slippage is mainly used to deter price manipulation)
+​
+When the ALP liquidity pool is profitable, it drives up the price of ALP. The main sources of profit are derived from contract trading income, forced liquidation fees, etc.
+​
+Please note: The transaction volume contributed by the ALP contract will not be included in the trading rewards activity, however users may use APX as fee deduction.
+
+
+Previous
+Deposit / Withdrawal
+Next
+ApolloX LP Dashboard Parameters
+Last modified 
+4mo ago
+Copy link

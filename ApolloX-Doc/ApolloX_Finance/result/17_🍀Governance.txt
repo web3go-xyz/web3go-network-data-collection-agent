@@ -1,0 +1,66 @@
+🍀
+Governance
+This article explains the ApolloX DAO governance process from Request for Comments [RFC] to execution results.
+1.
+Post a request for comments in Discord;
+2.
+Preliminary discussion;
+3.
+Update and refine the solicitation for a proposal implementation;
+4.
+Snapshot Polling;
+5.
+Execute result or try again in 30 days.
+Step 1: 
+Seek for advice [RFC]
+Submit suggestions on the ApolloX official discord forum using the [RFC] tag. This content needs to contain the following: 
+Introduction:
+ What is the current state? How would you like to improve? 
+Advice:
+ Do you have a good solution on how to improve? 
+Dependencies:
+ What are the resources needed to improve? 
+Risk Assessment:
+ What problems will this Improvement raise? What impact will your proposal have on the platform and ecology? 
+Open Questions:
+ Additional comments
+Step 2: Discuss
+1.
+Monitor discussions and collect feedbacks;
+2.
+Post a message in the #brainstorming-and-ideas channel on Discord to gain the attention of community members;
+3.
+Encourage Discord community members to discuss and gather their opinions.
+Step 3: Proposal
+1.
+Assuming that the user's solicitation has been discussed and a preliminary consensus has been reached, it is expected to reach the proposal stage after two weeks;
+Note: In the early stage of the DAO system, the official will specify some users to become administrators to submit proposals
+1.
+Admins to use the [RFC] tag to update proposal content with suggestions from users in the discussion;
+2.
+Update [RFC] tag to [Proposal];
+3.
+Collect final feedback and update on the changes.
+Step 4: Snapshot
+Admins can vote on 
+Snapshot
+ on proposals. If you can't post, ask for help in the #governance channel on Discord. 
+Voting Rights:
+ Calculate the number of votes of users based on the sum of the user's Power value at the time of the snapshot
+Step 5: Result
+If the vote fails, re-initiating the vote on the proposal only can made after 30 days. 
+If the vote is successful, the proposal will continue to execute, depending on the content of the vote, multiple signatures may be required.
+Previous
+Discounted Trading Fees
+Next
+ - API
+Create API
+Last modified 
+4mo ago
+Copy link
+On this page
+Step 1: Seek for advice [RFC]
+Step 2: Discuss
+Step 3: Proposal
+Step 4: Snapshot
+Step 5: Result

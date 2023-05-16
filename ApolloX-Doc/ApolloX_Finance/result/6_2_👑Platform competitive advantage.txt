@@ -1,0 +1,19 @@
+👑
+Platform competitive advantage
+More Security 
+Utilizing price feeds from both Binance Oracle and Chainlink helps avoid abnormal price behavior in the event of manipulation or lack of liquidity from the source platforms of either oracle. This mitigates the risk of unexpected liquidations on ApolloX.
+​
+Non-custodial platform 
+As compared to centralized exchanges, DEX traders are the custodians of their own funds. They do not have to manually deposit and withdraw on the platform to trade. ApolloX DEX also does not have the ability to manage, increase or reduce users’ trading positions unless they are being liquidated due to market volatility.
+​
+Higher Liquidity 
+Trading pairs on the platform share liquidity via the ALP pool. Hence, it is not required to separately add liquidity for each newly listed trading pair. Capital efficiency is maximized and users can open bigger position sizes.
+
+
+Previous
+How does it work?
+Next
+Powered by Binance Oracle and Chainlink
+Last modified 
+1mo ago
+Copy link

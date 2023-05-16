@@ -1,0 +1,25 @@
+💲
+Tax
+There is a 1% tax on every transaction. 
+ALL
+ tax would be 🔥
+BURNED
+🔥(transferred to 0x000000000000000000000000000000000000dEaD).
+However, there are some use cases of APX which should not be taxable, such as APX staking. Thus, we would like to add a whitelist mechanism: the transactions won’t be taxed if the target address is whitelisted.
+Whitelist
+ApolloX Exchange Treasury Contract
+0xe2e912F0b1b5961be7CB0D6dbb4A920ACe06Cd99
+Trading Rewards Contract
+0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E 
+Wallet for Marketing and Trading Rewards
+0xef29985A193f91EB0d85e2a860a83432A83a9751 
+ApolloX Community Treasury Wallet
+0x7B601b1f41Aebaa35c37C1Dc0A780C08ECd125E0
+Previous
+Allocation
+Next
+ - Welcome
+ApolloX Liquidity Pool
+Last modified 
+4mo ago
+Copy link

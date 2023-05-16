@@ -1,0 +1,20 @@
+🖱
+Create API
+API is an acronym for Application Programming Interface. With API, data can be pulled from ApolloX and interacted with external applications. You can view your wallet and transaction data, or trades in third-party programs.
+1. Go to [API Management] and click [Create API].
+2. Key in and set your preferred label name of the API which you would like to create and click [Create API].
+3. After creating, you will get the API keyand Secret Key for that API. You can click on the “copy” icon to copy and record it to somewhere secure.
+Note: 
+For security reasons, Secret Keys are only visible at the time the API Key is created. Any time after that point, it will be masked. Please copy and record down securely. If you forget your Secret Key, you will need to delete the API and create a new one. 
+Do not disclose your API Key or Secret Key to anyone to avoid any losses.
+You are also recommended to bind IP for API Key to increase your account security.
+4. You can view and manage the list of APIs that you have created on API Management. Each account can create up to 30 API Keys.
+ApolloX DAO - 
+Previous
+Governance
+Next
+ - API
+API Documentation
+Last modified 
+4mo ago
+Copy link

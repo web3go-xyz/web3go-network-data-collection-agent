@@ -1,0 +1,12 @@
+💡
+How To Trade？
+ApolloX ALP-PERP contracts trading differs from the usual contract model. The transaction price of ALP-PERP contracts is equivalent to the mark price plus platform slippage. That said, the first three ALP-PERP contracts BTCBUSD, ETHBUSD and BNBBUSD will have zero slippage trading, hence their mark price is the final transaction price. This model has a low transaction threshold and no order book, ensuring that users will be able to trade as close as possible to the mark price. Currently, users can only trade ALP-PERP in Lite mode. However, they will be able to close ALP-PERP positions in Classic mode under the ‘Positions’ section.
+
+
+Previous
+Rewards Distribution Rules
+Next
+How to connect wallet?
+Last modified 
+4mo ago
+Copy link

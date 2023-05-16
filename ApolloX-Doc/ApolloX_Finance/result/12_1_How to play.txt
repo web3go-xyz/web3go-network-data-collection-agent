@@ -1,0 +1,37 @@
+How to play
+Guide to ApolloXplore
+ApolloXplore is a space exploration game, where players travel to galaxies on spaceships, mine rAPX on planets, and mint APX. It is also a coin trend prediction game. Attractive rewards await successful predictions, so why not start playing!
+Connect wallet
+To start playing, connect a BSC-supported wallet, such as Binance Chain Wallet or MetaMask. You will also need BNB to pay network fees.
+Buy tokens 
+APX can be bought on ApolloX or Pancakeswap. 
+Token address: 0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3
+🥞 PancakeSwap - A next evolution DeFi exchange on BNB Smart Chain (BSC)
+0.047200 | APXUSDT | ApolloX
+ApolloX
+Mint spaceships 
+Enter the MINT page to mint your spaceships, the main NFTs for this game.You need a spaceship before you can start exploring. To mint, buy a mystery box for 2,000 APX and receive a spaceship. The rarity of the spaceship is randomly determined.
+Each user can mint up to 500 spaceships daily, and a single address can mint up to 10 spaceships a day.
+Rarity
+Odds
+Common
+86%
+Rare
+10%
+Epic
+3.5%
+Legendary
+0.5%
+Programs - 
+Previous
+APOLLOXPLORE
+Next
+Dual Token Model
+Last modified 
+9mo ago
+Copy link
+On this page
+Guide to ApolloXplore
+Connect wallet
+Buy tokens 
+Mint spaceships 

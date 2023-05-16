@@ -1,0 +1,64 @@
+📄
+APX Token & Contracts
+BNB Chain 
+APX Contract
+0x78f5d389f5cdccfc41594abab4b0ed02f31398b3
+APX MultisigWallet
+0x60EdE4402a34762D608AD9bA7bD3797f5bFE544c
+ApolloX Exchange Treasury Contract 
+0xe2e912F0b1b5961be7CB0D6dbb4A920ACe06Cd99
+APX LP Contract
+0x7eB5af418f199eA47494023C3a8b83a210f8846F(APX-BUSD)
+0x60d910f9de5c6fd2171716042af2fd3d2aa9d942(APX-BNB)
+Trading Rewards & Marketing Contract
+0xef29985a193f91eb0d85e2a860a83432a83a9751
+Trading Rewards Distribution Contract
+0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E 
+Lottery Contract
+0x693b1D79BDc5ec2F93d0c4C416ebd85c2eFF61ec
+Lottery NFT Contract
+0x3BA1Bbd67EE8245abB6029e86D4c91716D9DF6E8
+Lottery NFT Staking Contract
+0xDAFd0CE20445C0dA43203EE25e29D9831daf1168
+Rocket NFT Staking  
+0x5621F0d68338A2dB392E3C4c28F45ab1Da540294
+DEX Leaderboard Contract
+0x486f003e9cf6c8a1580604b9868c4768b95a91b6
+Arbitrum Treasury Contract
+0xBAd4ccc91EF0dfFfbCAb1402C519601fbAf244EF
+DAO
+Dao Voting Contract
+0x7f878994507F5B0588cF0EBEE07128d9A742ad9d
+Dao Fee Distributor Contract
+0xCa0E6DcC3B062b149CE5Cb1545aFA18BB9FB339C
+Fee Repurchase Contract
+0x4339bDB090939768987cBFDE8cc8E5619042C94b
+ALP
+ALP Token Contract
+0x4E47057f45adF24ba41375a175dA0357cB3480E5
+ApolloX LP Contract
+0x1b6F2d3844C6ae7D56ceb3C3643b9060ba28FEb0
+Oracle Contract
+0x7B2d74D4C65D5720Fb765adA374cc44a66928e08
+​
+Ethereum 
+ApolloX Exchange Treasury Contract 
+0xb40eed68d7d6b3b6d6f4e93de6239b7c53efc786
+​
+Arbitrum 
+ApolloX Exchange Treasury Contract 
+0x60EdE4402a34762D608AD9bA7bD3797f5bFE544c
+​
+Previous
+Video Tutorial
+Next
+Allocation
+Last modified 
+1mo ago
+Copy link
+On this page
+BNB Chain 
+DAO
+ALP
+Ethereum 
+Arbitrum 

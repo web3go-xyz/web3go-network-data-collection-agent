@@ -1,0 +1,40 @@
+🟢
+Rules
+Activity rules: Users who trade on V2 can earn from a reward prize pool. Those who stake APX in DAO to obtain veNFT will enjoy boosting multipliers corresponding to the Power value calculated from the veNFT. 
+Power Value 
+Boosting Multiplier 
+50,000 < Power =<100,000
+1.5
+100,000 < Power =<300,000
+2
+Power > 300,000
+2.5
+ Trading Rewards calculation formula: 
+At the end of each trading reward cycle, the user’s effective trading volume fees and DAO staking amount in that cycle will be calculated to determine the weightage and amount of APX rewards.
+
+
+The formula is as follows:
+r = R*W / sum(Wi)
+ 
+Parameters:
+r
+User’s APX reward for this cycle
+R
+Total APX rewards allocated for this cycle
+W
+Individual trading volume contribution score W=max(f*w,0), where;
+f refers to the effective trading volume fee amount contributed by the user in this cycle, which will be converted into USD.
+w is the Boosting Multiplier obtained by the user in this cycle from staking APX in DAO. (Refer to the above table for more information)
+sum(Wi)
+The total score of all users. Wi represents any individual user, and sum(Wi) represents the sum of all users
+
+
+Programs - 
+Previous
+V2 Trading Rewards Program
+Next
+ - Programs
+APOLLOXPLORE
+Last modified 
+7h ago
+Copy link

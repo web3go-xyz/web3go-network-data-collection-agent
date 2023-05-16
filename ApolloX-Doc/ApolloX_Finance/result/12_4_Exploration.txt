@@ -1,0 +1,135 @@
+Exploration
+Players explore galaxies on their spaceships in search of rare planets to mine. In return, they can receive rAPX as rewards. While exploring, players also stand to win attractive prizes.
+How to Start
+Select galaxy
+To start exploring, players need to select a galaxy. Rarer galaxies contain rarer planets that can be discovered. Of course, the EP required to explore these galaxies will also be higher.
+Rare Planet Odds = (EP ^ 1.5 - 100) / (Difficulty / 10) x Galaxy Boost 
+Galaxy requirements 
+Each galaxy has its own rarity requirements. Only spaceships that meet the requirements can begin exploring. 
+Galaxy
+Rarity
+Milky Way
+Common
+Andromeda
+Rare
+Sculptor
+Epic
+Bode
+Legendary
+Galaxy Boost
+The rarer the galaxy, the easier it is to discover rare planets. ​ 
+ Planet Rarity
+Milky Way
+Andromeda
+Sculptor
+Bode
+Common
+97%
+93.75%
+83%
+40%
+Rare
+2.5%
+5%
+10%
+30%
+Epic
+0.5%
+1%
+5%
+20%
+Legendary
+0%
+0.25%
+2%
+10%
+​Set Up Your Exploration Plan
+Select your spaceship
+You can select a spaceship to predict coin trends. If the coin attribute matches the market price movements during the exploration time, your rewards will be boosted. Successful predictions will also win points that count towards the Leaderboard, where top players get to split the prize pool.
+Select the number of planets to explore 
+Select the number of planets and pay the corresponding 
+Fuel Fee
+. This does not mean you will get to explore the number selected, as you may be limited by your EP. For instance, you may have spent 
+Fuel Fees
+ for 5 planets but your EP only allows you to explore 1.
+Exploration success rate 
+Players can explore a maximum of 5 planets each time. The success rate for the first planet is 100%, and will decrease incrementally with each subsequent planet.
+During the exploration time, the spaceship will continue to search for the next planet. If the exploration ends without discovering another planet, it means that there are no further planets discovered. For instance, if the player sets out to explore 5 planets but only discovers 3 planets by the end of the exploration time, the 4th and 5th planets were not discovered successfully. The total number of planets explored in the game is 3. ​ 
+Sequence
+Success Rate
+0 -> 1
+100%
+1 -> 2
+EP%*2
+2 -> 3
+EP%*2 - 40%
+3 -> 4
+EP%*2 - 80%
+4 -> 5
+EP%*2 - 120%
+Select exploration time
+You can choose to explore for 15, 30, 45, or 60 minutes. Exploring for a longer time means you will experience a larger increase/decrease in rewards depending on whether your prediction is successful. ​
+Exploration time
+Price Tier 1
+Price Tier 2
+Price Tier 3
+15 min
++39% / -43%
++58% / -64%
++77% / -86%
+30 min
++41% / -45%
++61% / -68%
++81% / -90%
+45 min
++43% / -48%
++64% / -71%
++86% / -95%
+60 min
++45% / -50%
++68% / -75%
++90% / -100%
+​
+​Introduction to Coin Trend Prediction ​
+​
+Auxiliary Ship
+The Auxiliary Ship is primarily used to assist mining. The number of rAPX mined will be multiplied by the number of Auxiliary Ships utilized during exploration. Hence, the more Auxiliary Ships you have during exploration, the more rAPX you will receive accordingly. For instance, if you were originally able to mine 10 rAPX and you have 15 Auxiliary Ships, you will be able to mine 150 rAPX.
+However, the more Auxiliary Ships you utilize, the higher the 
+fuel fees
+ you will incur.
+Exploration cycle 
+Each spaceship can only be used once a day for exploration. This will be refreshed daily at 12:00 UTC.
+During Exploration 
+Mining planets 
+After discovering a planet, players can start mining. Each planet will have its own available mining capacity. The rarer the planet, the greater the capacity. Players should not expect to mine 100% capacity each time as the output depends on the Mining Rate, which is determined by the MP and Difficulty. The higher the MP, the easier the mining. The higher the Difficulty, the more challenging it will be to mine.
+Basic Mining Rate (MAX 100%) = (MP - Difficulty / 100) ^ 1.5 / (Difficulty / 10) ^ 1.5
+Mining Rate = Basic Mining Rate x (0.8-1.2) 
+Output = Mining Rate x Available Mining Capacity
+Planet Rarity
+Difficulty
+Available Mining Capacity
+Common
+450
+10 rAPX
+Rare
+650
+30 rAPX
+Epic
+850
+60 rAPX
+Legendary
+1400
+400  rAPX
+Ongoing 
+You can check the exploration status of all spaceships by going to the Ongoing tab. For now, you can use 10 spaceships to explore concurrently.
+Previous
+Spaceship Attributes
+Next
+Fuel Fees
+Last modified 
+9mo ago
+Copy link
+On this page
+How to Start
+​Set Up Your Exploration Plan
+During Exploration 

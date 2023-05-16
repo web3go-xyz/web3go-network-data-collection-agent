@@ -1,0 +1,14 @@
+💻
+Order Types
+Choose your order type when opening a position.
+ApolloX DEX supports multiple order types including limit, market and stop limit. 
+Read about the different order types 
+here
+. Navigate to the next page for TP/SL orders.
+Previous
+Position Mode
+Next
+TP/SL orders (Strategy Order)
+Last modified 
+4mo ago
+Copy link

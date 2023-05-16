@@ -1,0 +1,37 @@
+💡
+How to use Multi-Assets Mode
+Multi-Assets Mode
+Multi-Assets model expands the margin types of USDⓈ-M Futures, allowing users to trade across multiple margin assets. With Multi-Assets Mode, the profit and loss between USDT and BUSD margin asset positions offset each other, thereby increasing the capital efficiency. This Multi-Assets Mode only supports cross-margin mode.
+ 
+Switch between Single/Multi-Assets Mode
+On Website:
+On the trading page, go to [Preference]-[Asset Mode] and select [Multi-Assets Mode].
+Screenshot_2021-12-08_at_10.37.14_AM.png
+Or you can click on the [Multi-Assets] button under "Margin Ratio" .
+Screenshot_2021-12-10_at_6.03.00_PM.png
+On App:
+ Under Futures interface, go to [Features]-[Preferences]-[Assets Mode] and select [Multi-Assets Mode].
+photo_2021-12-08_20.59.16.jpeg
+Wea-2021-12-08-122451.png
+Wea-2021-12-08-122815.png
+Please Note:
+The Single-Asset Mode will be enabled by default and users will have to enable Multi-Assets Mode manually.
+If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated.
+If you are holding positions in Isolated Mode, please switch all open positions to Cross Margin Mode before enabling the Multi-Assets Mode.
+ 
+Benefits of Multi-Assets Mode: 
+Diversification: Users can diversify across various stable coins and increase their capital efficiency by using the Multi-Assets mode. 
+Capital Efficiency: The shared margin feature allows traders to arbitrage between the two markets without the need to maintain multiple accounts or margins. Traders would simply deposit margin either in USDT or BUSD in their wallets and can use the same margin asset to open positions in different markets. 
+Automatic exchange mechanism
+Under the Multi-Assets Mode, when the balance of the asset account is less than the established automatic exchange threshold, other remaining assets under USDⓈ-M Futures wallet will be automatically exchanged into deficit asset currencies. The automatic exchange mechanism is handled by the matching engine. There is no commission charge for this automatic exchange service.
+When your wallet balance is negative, if the loss is less than 10,000 USDT/BUSD, it will not be automatically exchanged; if the loss amount is greater than 10,000 USDT/BUSD, it will be exchanged in proportion to the USDⓈ-M Futures wallet asset balance, deducting your corresponding margin assets. 
+This automatic exchange mechanism will help users balance their accounts and increase the capital utilisation. With the Multi-Assets Mode, users now can diversify their stable coin exposure between BUSD and USDT.
+
+
+Previous
+How to check your balance (DEX)
+Next
+How-to Guide: Use BONUSUSD to trade crypto futures on ApolloX
+Last modified 
+4mo ago
+Copy link

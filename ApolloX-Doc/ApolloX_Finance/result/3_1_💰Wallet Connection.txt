@@ -1,0 +1,90 @@
+💰
+Wallet Connection
+Connect your wallet to ApolloX DEX to start trading.
+Wallet Supported List
+Here are the Wallets we support:
+Click below for more information about these wallets:
+​
+Binance Wallet
+​
+​
+Metamask
+​
+​
+Coinbase Wallet
+​
+(Supported Wallets)
+If you are using App wallets or other wallets, check 
+Here
+ for Wallet list supported by WalletConnect. As long as your wallet is on the list, you can connect your wallet via WalletConnect.
+Connect Your Wallet 
+1. Click 
+Connect Wallet
+ on the top right side.
+mceclip0.png
+2. Choose and Click the wallet you use. (Make sure your network is on BSC)
+Binance Wallet and MetaMask Wallet are for Web extension.
+If you are using 
+App wallets 
+or wallets other than Binance and MetaMask, check 
+Here
+ 
+for Wallet list supported by WalletConnect. As long as your wallet is on the list, you can connect your wallet via WalletConnect.
+(Supported wallets)
+3. Confirm in your Wallet.
+Once you choose to connect your wallet, there will be a confirmation message in your wallet. Confirm the connection and sign. Refresh the website and you will be able to start trading!
+Connect Metamask to Binance Smart Chain (BSC)
+Metamask is a decentralized wallet on ERC20. It can be installed on your Web Browser (e.g. Chrome), IOS or Android mobile phone. If you would like to download Metamask, kindly go to the 
+Download Page
+.
+For the following demo, we are using the Metamask IOS app. Don’t worry, the steps for all platforms are similar.
+After you create or log in to your wallet account, you may check the Network on the top. It shows which blockchain network you are on. Click and it will show all the networks you have.
+As we can see, there is no BSC network. In this case, we need to add BSC to your Metamask：
+1. Go to Settings;
+2. Find Networks;
+
+
+3. Click [Add Networks] and filling in the following information:
+Network Name: 
+Binance Smart Chain
+New RPC URL: 
+https://bsc-dataseed.binance.org/
+​
+or
+ 
+https://bsc-dataseed1.binance.org/
+​
+or
+ 
+https://bsc-dataseed2.binance.org/
+ 
+ChainID: 
+56
+Symbol:
+ BNB
+Block Explorer URL: 
+https://bscscan.com
+​
+4. After you add the BSC network, you will be able to shift from ERC20 to BSC.
+
+
+Welcome - 
+Previous
+Getting Started
+Next
+How to start trading on ApolloX?
+Last modified 
+4mo ago
+Copy link
+On this page
+Wallet Supported List
+Connect Your Wallet 
+1. Click Connect Wallet on the top right side.
+2. Choose and Click the wallet you use. (Make sure your network is on BSC)
+3. Confirm in your Wallet.
+Connect Metamask to Binance Smart Chain (BSC)
+1. Go to Settings;
+2. Find Networks;
+
+3. Click [Add Networks] and filling in the following information:
+4. After you add the BSC network, you will be able to shift from ERC20 to BSC.

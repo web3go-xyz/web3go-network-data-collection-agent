@@ -1,0 +1,24 @@
+💡
+Rewards Distribution Rules
+ALP Staking Rewards Formula
+
+
+Annual Percentage Rate (APR)
+ = [(Number of blocks produced by Binance Smart Chain (BSC) per day * Number of APX rewards per block * Price of APX) / (Total number of ALP staked * Price of ALP)] * 365
+Binance Smart Chain (BSC) daily block count = 28,800
+APX Rewards per block = 2.7
+APR
+ = (28,800*2.7*Price of APX) / (Total ALP staked * Price of ALP) * 365
+Both the price of APX & ALP will be based on the real time market price and the total number of ALP staked as shown on the platform is based on the real time figure.
+Annual percentage yield (APY) = (1+APR/365)^(365)-1
+
+
+For instance:
+When the market price of APX is 0.03 USDT, total ALP staked is 1,000,000 USDT, the APR of ALP will be (28,800*2.7* 0.03)/(1,000,000*1)*365=85.15% and the APY will be APY=(1+110.38%/365)^(365)-1=134.08%
+Previous
+How to sell?
+Next
+How To Trade？
+Last modified 
+1mo ago
+Copy link

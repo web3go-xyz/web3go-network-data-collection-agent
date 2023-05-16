@@ -1,0 +1,51 @@
+Spaceship Attributes
+Mining Power (MP)
+MP ranges from 30 to 100. Its value will affect the mining rate during exploration. The higher the MP, the higher the mining rate, and the more {Sub-Token} you can mine.
+Basic Mining Rate (MAX 100%) = (MP - Difficulty / 100) ^ 1.5 / (Difficulty / 10) ^ 1.5
+Mining Rate = Basic Mining Rate x (0.8-1.2) 
+Output = Mining Rate x Available Mining Capacity 
+Exploration Power (EP) 
+EP ranges from 30 to 100. Its value will affect the odds of discovering rare planets and the number of planets that can be explored. The higher the EP, the greater probability of discovering a rare planet, and the more planets you can explore. These will translate to a higher output. Rare galaxies will also require players to have a certain EP level.
+Rare Planet Odds = (EP ^ 1.5 - 100) / (Difficulty / 10) x Galaxy Boost 
+Exploration Success Rate 
+Players can explore a maximum of 5 planets each time. The success rate for the first planet is 100%, and will decrease incrementally with each subsequent planet.
+During the exploration time, the spaceship will continue to search for the next planet. If the exploration ends without discovering another planet, it means that no further planets were discovered. For instance, if the player sets out to explore 5 planets but discovers only 3 planets by the end of the exploration time, the 4th and 5th planets were not discovered. So in this example, the total number of planets explored in the game was 3.
+Sequence
+Success Rate
+0 -> 1
+100%
+1 -> 2
+EP%*2
+2 -> 3
+EP%*2 - 40%
+3 -> 4
+EP%*2 - 80%
+4 -> 5
+EP%*2 - 120%
+Durability
+The spaceship Durability is set at 600. Each time after exploring, the spaceship will lose Durability. Once this reaches zero, the spaceship can no longer be used. You can pay APX to repair the spaceship, which will return the Durability to 600.
+Repaired
+Each spaceship can be repaired a maximum of 5 times, and the success rate will decrease incrementally. If the repair fails, the spaceship will not disappear but the Durability will remain at 0.
+​
+​Introduction to Repairing your spaceship
+​
+Coin Attribute
+Each spaceship has its own coin attribute (eg. BTC UP), which is used to predict the coin trend during exploration. If the prediction is successful, the output will be boosted.
+​
+​Introduction to Coin Trend Prediction​ ​
+​
+​
+​
+Previous
+Dual Token Model
+Next
+Exploration
+Last modified 
+9mo ago
+Copy link
+On this page
+Mining Power (MP)
+Exploration Power (EP) 
+Durability
+Repaired
+Coin Attribute

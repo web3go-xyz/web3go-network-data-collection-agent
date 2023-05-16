@@ -1,0 +1,19 @@
+💡
+Opening a position
+Users can choose to [Buy/Long] or [Sell/Short] to open their positions with leverage. 
+Long position: If the price rises, you earn a profit. If the price falls, you make a loss.
+Short position: If the price falls, you earn a profit. If the price rises, you make a loss.
+After selecting the Take Profit percentage, you will need to approve the transaction on your wallet to open the position successfully. 
+​
+​
+Currently, only USDT is supported as collateral 
+USDT can be used as collateral
+The settlement assets will be the user’s input assets. If settlements assets are insufficient, the platform will select the asset with the highest accumulated value in the liquidity pool as the settlement asset
+​
+Previous
+Connect wallet
+Next
+How to place stop orders?
+Last modified 
+1mo ago
+Copy link

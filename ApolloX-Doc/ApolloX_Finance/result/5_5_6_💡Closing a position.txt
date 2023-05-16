@@ -1,0 +1,15 @@
+💡
+Closing a position
+Users can close a part or all of their positions by clicking on "Close Position".
+Users can also close positions in "Classic Mode".
+​
+Note: In ApolloX Classic Mode, ‘Close all positions’ will not work for ALP-PERP positions. ALP-PERP positions will need to be closed manually.
+
+
+Previous
+Position management
+Next
+Transaction Fees
+Last modified 
+4mo ago
+Copy link

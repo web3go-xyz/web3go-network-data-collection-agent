@@ -1,0 +1,10 @@
+💡
+Position management
+Users can check the details of their opened positions such as the opening price, quantity, latest price and forced liquidation price. They can do so by clicking on "Position" located on the bottom of the trading page.
+Previous
+ApolloX LP Dashboard Parameters
+Next
+Closing a position
+Last modified 
+4mo ago
+Copy link

@@ -1,0 +1,25 @@
+⚡
+Discounted Trading Fees
+Users who lock APX in DAO also enjoy discounted trading fees.
+APX Total Power
+Trading Fees Discount Rate
+Trading Fees after Discount
+100,000 > APX >= 50,000
+10%
+Maker 0.018%; Taker 0.063%
+300,000 > APX >=100,000
+20%
+Maker 0.016%; Taker 0.056%
+APX>= 300,000
+30%
+Maker 0.014%; Taker 0.049%
+
+
+Previous
+DAO Staking Rewards
+Next
+ - ApolloX DAO
+Governance
+Last modified 
+4mo ago
+Copy link

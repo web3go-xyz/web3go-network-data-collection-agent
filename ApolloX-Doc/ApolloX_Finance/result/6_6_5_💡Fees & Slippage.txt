@@ -1,0 +1,94 @@
+💡
+Fees & Slippage
+Opening position fee
+The fee for opening a cryptocurrency position is 0.08% and the fee for opening a FX position is 0.02%. 
+Opening Fee=Number of Contracts*Entry Price * Opening Fee Rate
+For example, if a trader opens a 1 ETH/USD long position at 1,500 USD, then the opening fee =1* 1,500*0.08%=1.2 USD.
+​
+Closing position fee
+The fee for closing a cryptocurrency position is 0.08% and the fee for opening a FX position is 0.02%. 
+Closing Fee=Number of Contracts*Close Price *Closing Fee Rate
+For example, if a trader closes a 1 ETH/USD position at 1,600 USD, then the closing fee=1* 1,600*0.08%=1.28 USD
+​
+At the same time, in order to fulfill blockchain network costs and guarantee the normal functioning of the Keeper program — which helps to trigger and execute orders, users have to pay an execution fee.
+
+
+Execution fee
+The execution fee will only be charged when a position is opened. The execution fee is set at 0.3 USD.
+​
+Funding rate
+The funding rate is used to balance the difference in the long-short ratio of the platform, to protect ALP from excessive risk exposure during transactions, and to minimize the holding position risk of the pool.
+The funding rate on ApolloX is calculated every block. When the market changes, the accumulated funding fee is automatically calculated. The funding fee will be reflected in the unrealized PnL of the position, directly affecting the user’s liquidation price.
+When long position traders are dominant, the funding rate is positive and long traders pay a funding fee to short traders. This increases as the long/short position gap widens. On the contrary, when short position traders are dominant, the funding rate is negative and short traders pay the funding fee to long traders. The detailed calculation is as below:
+Funding Fee =(Number of Contracts * Mark Price) * Funding Fee Rate
+
+
+Funding rate is calculated based on the gap between the long and short positions and current interest rate:
+If Long OI >Short OI
+Funding Fee Rate=Max{Floor,(Long OI - Short OI) * baseInterestRate/Long OI}
+If Long OI <Short OI
+Funding Fee Rate=-Max{Floor,(Short OI - Long OI) * baseInterestRate/Short OI}
+If Long OI =Short OI
+Funding Fee Rate=0
+
+
+Base Interest Rate
+Base Interest Rate Per Block = Base Interest Rate / (365*28200)
+Based Interest Rate =  k*HV
+k is the adjustment factor, the platform may be adjusted when k=1.25
+HV is the historical volatility, HV = 2Week Average Volatility *365
+For more information, please refer to the History Volatility & Base Interest Rate below
+HV&BaseInterestRate.xlsx
+119KB
+Binary
+​
+Liquidation 
+
+
+Liquidation Price Distance = Entry Price * ( Initial Margin * Liquidation Lost Rate + CumFunding Fee) / Initial Margin / Leverage
+​
+Liquidation Price
+Long: Entry Price - Liquidation Price Distance
+Short : Entry Price + Liquidation Price Distance
+​
+Parameters: 
+Entry Price is the price at which the traders opens a position 
+Initial margin is the user’s initial collateral used as margin
+Liquidation Lost Rate is the forced liquidation lost rate, and the default value is 90%
+CumFunding Fee is the accumulated funding fee
+Leverage is the user's selected leverage multiple
+
+
+Example:
+If the user opens a ETH/USD long position at 10x leverage, the entry price is 1,500, initial margin is 100, the funding fee is 2, the liquidation lost rate is 90%, then
+
+
+Liquidation Price Distance = 1,500 * (100*90%+2) / 100 /10= 138
+Liquidation Price = 1,500- 138 = 1,362
+​
+Slippage
+Slippage on ApolloX will be adjusted based on the trading pair’s market depth determined by the Oracle. The platform will determine if the trading pair utilizes fixed slippage or dynamic slippage according to its liquidity from the oracle’s sources and this helps to prevent price manipulation at the same time. In general, slippage is positively correlated with open interest and newly opened positions, and is negatively correlated with the liquidity of the trading pair from the oracle's sources.
+​
+Fixed Slippage
+When the user initiates an ETH/USD transaction, the price obtained by Binance Oracle is 1,500, and the slippage is 0.1%. Therefore, the user's entry price is 1,501.5, and the calculation formula is 1,500*(1500 * 0.1%)=1,501.5.
+Since the liquidity of each trading pair in the oracle's source markets differs, the slippage of each trading pair is also different. In general, trading pairs with low liquidity have wider spreads. Users can check the specifics of each trading pair’s slippage on the trading page.
+​
+Dynamic Slippage
+
+
+Dynamic slippage is different from fixed slippage. Dynamic slippage depends on the open interest of the trading pair, the position size of the trade, and the direction of the trade (long / short). Calculation:
+
+
+Long_Dynamic Slippage (%)=(Long open interest + New trade position size )/ 1%DepthAbove
+Short_Dynamic Slippage (%)=(Short open interest + New trade position size )/ 1%DepthBelow
+​
+Parameters:
+Long open interest /Short open interest is the current value of the open positions of the trading pair
+1%DepthAbove/ 1%DepthBelow is the current market depth +1%/-1% of a trading pair
+Previous
+Position management
+Next
+Order Types
+Last modified 
+13d ago
+Copy link

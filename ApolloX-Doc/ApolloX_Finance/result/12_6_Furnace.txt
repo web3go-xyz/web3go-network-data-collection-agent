@@ -1,0 +1,28 @@
+Furnace
+The Furnace is used to predict the rise and fall in ETH price levels by placing rAPX into the Furnace. Users who predict correctly will receive refined APX as a reward.
+How to play
+The game restarts every 5 minutes. During this period, players predict the movement in ETH price levels. Winners will receive APX minted from the rAPX. 
+ETH prices
+Price feeds will be obtained using the Chainlink oracle, refreshed every 90 seconds. Each time the furnace game cycle ends, the nearest price will be used for settlement.
+Contract address: 0x9ef1b8c0e4f7dc8bf5719ea496883dc6401d5b2e 
+Participation fees
+5% of the rAPX received by the winner will be burnt (this includes the original deposit placed). 
+Exceptional cases
+If the outcome is a draw, 5% of the rAPX will be deducted as the participation fee and the remaining rAPX will be minted into APX. These will then be distributed accordingly to the players.
+If everyone makes the same prediction (i.e. no one has predicted the opposite), 5% of the rAPX will be deducted as the participation fee and the remaining rAPX will be minted into APX. These will then be distributed accordingly to the players. 
+If the game pauses or cannot be completed due to an accident, 5% of the rAPX will be deducted as the participation fee and the remaining rAPX will be minted into APX. These will then be distributed accordingly to the players. 
+Claim rewards 
+The rewards can be claimed on the Furnace History page. No additional fees will be charged.
+Previous
+Repairing your spaceship
+Next
+Leaderboard (Coming Soon)
+Last modified 
+9mo ago
+Copy link
+On this page
+How to play
+ETH prices
+Participation fees
+Exceptional cases
+Claim rewards 

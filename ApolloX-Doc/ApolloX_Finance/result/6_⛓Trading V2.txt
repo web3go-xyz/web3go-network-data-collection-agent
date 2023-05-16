@@ -1,0 +1,11 @@
+⛓
+Trading V2
+ApolloX is a decentralized derivatives trading platform. Users can start trading on the platform without registration or depositing funds. All transactions are executed on-chain and some trading pairs have zero slippage. This trading model has a low barrier to entry and those who hold or stake ALP can earn trading fee income and staking rewards.
+​
+Previous
+Risk
+Next
+How does it work?
+Last modified 
+1mo ago
+Copy link

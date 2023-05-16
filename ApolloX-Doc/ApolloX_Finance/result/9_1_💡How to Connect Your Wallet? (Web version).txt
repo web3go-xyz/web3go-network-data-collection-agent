@@ -1,0 +1,33 @@
+💡
+How to Connect Your Wallet? (Web version)
+1. Click 
+Connect Wallet
+ on the top right side.
+2. Choose and Click the wallet you use. (Make sure your network is on BSC)
+Binance Wallet, MetaMask Wallet and Coinbase Wallet are for Web extension.
+If you are using 
+App wallets 
+or wallets other than Binance, MetaMask and Coinbase Wallet , check 
+Here
+ for Wallet list supported by WalletConnect. As long as your wallet is on the list, you can connect your wallet via WalletConnect.
+​
+​
+3. Confirm in your Wallet.
+Once you choose to connect your wallet, there will be a confirmation message in your wallet. Confirm the connection and sign. Refresh the website and you will be able to start trading!
+Further Readings:
+​
+How to Connect Metamask to Binance Smart Chain (BSC)
+​
+​
+How to Deposit and Withdraw on ApolloX Finance(DEX)?
+​
+
+
+Features & Tutorials (V1) - 
+Previous
+All about ApolloX Web
+Next
+How to find your DEX UID? (Web)
+Last modified 
+4mo ago
+Copy link

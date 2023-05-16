@@ -1,0 +1,20 @@
+⚡
+DAO Staking Rewards
+The daily prize pool of DAO is 50,000 APX, users can view the accumulated rewards during the current period 
+here
+.
+Rewards are distributed to veNFT holders through the FeeDistributor contract. 
+The contract address: 
+0xCa0E6DcC3B062b149CE5Cb1545aFA18BB9FB339C
+The source code of the contract can be found on 
+Github
+. Rewards are distributed once per cycle. The reward ratio received by each user is calculated based on the user's Power value. 
+The amount is calculated at the end of each cycle, based on the fees charged by the platform and the actual distribution is after the end of the second cycle.
+ApolloX DAO - 
+Previous
+DAO Staking
+Next
+Discounted Trading Fees
+Last modified 
+4mo ago
+Copy link

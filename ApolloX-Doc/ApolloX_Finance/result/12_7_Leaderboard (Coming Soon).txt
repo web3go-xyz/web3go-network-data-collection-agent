@@ -1,0 +1,25 @@
+Leaderboard (Coming Soon)
+Top players who make the Leaderboard will receive rewards.
+Output ranking 
+Players are ranked according to the total rAPX output.
+Prediction ranking
+Players are ranked according to the points received for predicting coin trends successfully.
+Price Tier
+Points
+±Price Tier 1
+±1
+±Price Tier 2
+±3
+±Price Tier 3
+±5
+Previous
+Furnace
+Next
+ - Programs
+Retroactive Mining Rewards
+Last modified 
+9mo ago
+Copy link
+On this page
+Output ranking 
+Prediction ranking

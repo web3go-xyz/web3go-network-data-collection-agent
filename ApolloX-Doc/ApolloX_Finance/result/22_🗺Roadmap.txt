@@ -1,0 +1,32 @@
+🗺
+Roadmap
+Coming in 2023
+*May be subject to change depending on development priorities and market changes.
+Product
+ALP Perpetual Trading v2
+: ALP perpetual contracts (ALP-PERP) on ApolloX currently employ off-chain settlement. To uphold our commitment to decentralized trading, ALP-PERP will go fully on-chain in Q2 2023, joining the already on-chain ALP staking pool. A testnet will be launched before mainnet to resolve any bugs and improve the trading experience.
+Expand Multichain Ecosystem
+: For the convenience of traders and investors who participate in multiple DeFi ecosystems, ApolloX committed to building a multi-chain ecosystem, starting from its launch on BNB Chain. In 2022, ApolloX integrated with Ethereum and Arbitrum Networks. In 2023, we will continue to add support for promising and in-demand chains.
+DAO & APX Token 
+DAO Proposal Creation Opens to Members
+: ApolloX DAO has passed more than 10 governance proposals since its inception. In 2023, DAO proposal creation will open to all DAO members to encourage active contribution, and further improve on ApolloX’s degree of decentralization.
+Burn Repurchased APX
+: Currently, ApolloX uses 50% of daily platform fee income to repurchase APX from secondary markets. Repurchased APX is added to the DAO staking rewards pool and distributed to APX stakers. To further reduce the circulating supply of APX tokens, ApolloX DAO will hold a governance vote in Q2/Q3 2023 to burn these repurchased APX instead. 
+Others
+ApolloXplore
+: Put on hold after shifts in development priorities in 2022, the ApolloXplore game will open pre-sales to all previously whitelisted ApolloX users this year. A fun and interactive prediction game, ApolloXplore players will board spaceships to explore different galaxies and find planets where they can mine raw APX (rAPX) to mint APX tokens, while predicting the price of certain cryptocurrencies concurrently.
+NFT Lottery Game 2.0
+: The ApolloX NFT Lottery Game 1.0 saw 5 successful rounds of the game where players created unique, customizable NFTs and earned rewards. In 2023, we would like to bring ApolloXplore back with better and improved game rules, for more fun and rewards!
+Community - 
+Previous
+Social Media & Communities
+Next
+2022 Milestones
+Last modified 
+1mo ago
+Copy link
+On this page
+Coming in 2023
+Product
+DAO & APX Token 
+Others

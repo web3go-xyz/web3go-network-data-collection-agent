@@ -1,0 +1,32 @@
+💡
+How to trade APX token on DEX
+[For Deposits into Futures Wallet]
+Step 1: 
+Connect wallet 
+& select [
+Deposit
+] to deposit APX or other crypto into ApolloX.
+​
+​
+Step 2: Select your token and deposit your desired amount.
+[For Deposits into Spot Wallet]
+Alternatively, you can navigate to the Spot page to deposit funds directly into your spot wallet. Select [Assets] then [Deposit]. Deposit your funds to 
+Spot. 
+ 
+*If you only want to trade spot on ApolloX DEX, be careful not to deposit into 
+Futures
+ 
+as there is no transfer function from your Futures wallet to Spot wallet yet. You would have to manually transfer APX from your Futures wallet to your decentralized wallet, then redeposit APX to your Spot wallet. This will cause a 1% burn tax for each transfer of APX.
+Deposit_USDT_EN.png
+Confirm the transfer in your wallet.
+​
+​
+Step 3: Once your funds have been deposited, you can start buying or selling APX/USDT or other trading pairs. 
+Features & Tutorials (V1) - 
+Previous
+Trading
+Next
+How to Buy Crypto on ApolloX DEX via BANXA
+Last modified 
+4mo ago
+Copy link

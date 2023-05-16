@@ -1,0 +1,16 @@
+💡
+Order Types
+Market order: A market order is a buy or sell order that gets filled right away at the best price currently available on the market.
+Limit order: A limit order lets you place an order at a specific price or a more favorable price. However, there's no guarantee that a limit order will be filled.
+Limit buy orders are executed if the price of the asset hits the limit price or falls below that price.
+Limit sell orders are executed if the price of the asset hits the limit price or rises above that price.
+Do note that the opening fee and execution fee will be charged when a position is opened and this will be factored into the leverage amount. 
+
+
+Previous
+Fees & Slippage
+Next
+How to interact directly with the contract
+Last modified 
+1mo ago
+Copy link

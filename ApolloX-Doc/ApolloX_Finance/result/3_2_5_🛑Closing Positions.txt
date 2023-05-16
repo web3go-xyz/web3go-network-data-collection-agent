@@ -1,0 +1,37 @@
+🛑
+Closing Positions
+Calculating profit and loss (PnL) using the last price:
+PnL for open positions is currently calculated based on the contract’s last price. This makes it easier to manage your trades based on current market conditions.
+1. How do I calculate PnL using the last price?
+On the Futures Trading page, scroll down to the Positions panel and click on 
+[PNL (ROE %]
+ to select your preferred price basis (i.e., mark price or last price)
+Select 
+[Last Price]
+ to calculate PnL based on the contract's last price. The PnL(ROE%) of all of your open positions will be calculated using the selected method.
+ 
+​
+Using the Close All Positions function:
+In the event of extreme market conditions, you can use the Close All Positions function to exit all of your open positions at once rather than having to exit multiple positions manually. Just click the [
+Close All Positions
+] button to exit all of your positions.
+1. How do I use the Close All Positions function?
+On the Futures Trading page, scroll down and click on the Position Preferences icon. Check the box next to [
+Close All Positions
+] to enable this feature. Once enabled, you'll be able to click the 
+[Close All Positions]
+ button to close your positions at market price.
+Note:
+Once this function is enabled and you click [
+Close All Positions
+], the system will cancel all of your open orders and close all of your open positions at once using market orders.
+During extreme market conditions, unrealized PnL may differ from realized PnL due to volatility, slippage, and execution risks.
+
+
+Previous
+TP/SL orders (Strategy Order)
+Next
+Video Tutorial
+Last modified 
+4mo ago
+Copy link

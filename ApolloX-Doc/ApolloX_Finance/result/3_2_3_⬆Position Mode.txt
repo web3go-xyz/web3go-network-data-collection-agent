@@ -1,0 +1,32 @@
+⬆
+Position Mode
+There are two position modes on ApolloX.
+One-Way Mode
+：
+In the one-way mode, users can only hold positions in one direction under one contract.
+
+
+Hedge Mode
+：
+In hedge mode, users can hedge against risk by holding both long and short positions under the same contract at the same time.
+ 
+Click the
+ [Preference]
+ icon on the upper right corner of the Order widget and choose your preferred position mode.
+​
+​
+​
+On ApolloX Mobile App:
+​
+ 
+​
+​
+ 
+​
+Previous
+Margin Mode & Leverage
+Next
+Order Types
+Last modified 
+4mo ago
+Copy link

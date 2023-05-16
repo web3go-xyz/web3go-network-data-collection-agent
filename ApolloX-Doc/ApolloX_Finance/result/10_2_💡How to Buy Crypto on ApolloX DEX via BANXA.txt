@@ -1,0 +1,69 @@
+💡
+How to Buy Crypto on ApolloX DEX via BANXA
+If you face any issues when accessing or using the service, kindly contact 
+Banxa’s customer support 
+here
+.
+1.
+Click [More] -> [Buy crypto] from the top navigation bar.
+1.
+You will be redirected to a BANXA - APX website. Choose the fiat currency and the crypto you want to buy. Enter the amount you want to spend in fiat. You can either connect your wallet or fill in your wallet address manually. Select the Blockchain you want. Review your order and choose your payment method here. Click [
+Create Order
+]. The minimum amount you buy should be greater than 50 USDT/BUSD.
+mceclip0.jpg
+Note: 
+For Visa/Mastercard – the card needs to be your personal (not business) card and has to be in your name. Payments with Visa/Mastercard are processed instantly. However, the transaction will be put through as a pre-authorization only to hold the order. The actual payment amount is taken only when the order is fulfilled.
+1.
+After creating the order, you will need to fill in your contact details, including email address and phone number.
+​
+​
+Note:
+ Please double-check if you entered both correctly as that is the email address Banxa will use to get in touch with you regarding your order, and they might also reach you via SMS, depending on the payment method you choose.
+1.
+If you are purchasing for the first time from Banxa through ApolloX, you will need to go through a verification process. Enter your personal details (name, date of birth, country of residence, and your address).
+​
+​
+1.
+You need to upload a photo of your ID document on Banxa. Please read the instructions provided during the process carefully.
+mceclip5.png
+Note:
+ Failure to follow instructions may result in Banxa’s order being delayed or canceled. Your document needs to be valid and current. Also, please ensure that when you take a photo of your document, all important details are visible and not obscured in any way. For more details on the verification process, please check 
+here
+.
+1.
+You also need to upload a selfie while holding your ID (the same ID you uploaded in the previous step). Please follow the instructions during the process carefully.
+​
+​
+Note regarding Banxa Identity Verification:
+ The selfie needs to be clear, not blurry, and without any glare. Your face must be clear, and the information on the document you are holding has to be readable. The photo must be taken on the day of your order. Failure to follow instructions may result in your order being delayed or cancelled. Please also note that creating the order does not necessarily mean you have passed verification. The process is happening in the background, and if you do pass it, your order will be fulfilled. If you do not, it will most likely be cancelled and refunded. Standard verification of your account may take up to 12 hours from placing your order. If there is no any updates from Banxa after 12 hours, kindly contact their customer support team.
+1.
+After submitting the documents for verification purposes, you will enter your payment details. Please make sure you are using your personal card (a card that is in your name).
+
+
+
+2.
+After the payment, you can see your order status.
+
+
+
+3.
+Banxa will notify you of any order updates via emails, such as when the payment is received, when the transfer started, when the order is fulfilled, etc.
+
+When the transfer starts, you can check your transaction status on the blockchain network. You will receive a link in the email to check how your order is progressing. When your order is fulfilled, i.e. the transfer is completed and the transaction is verified on the blockchain network, your purchased crypto will be visible in your Wallet.
+
+
+Note:
+ The fact that the transfer started does not necessarily mean it is confirmed on the blockchain right away (this takes time and is dependent on the network speed). Please wait patiently. If there is any issues regarding to the transaction, kindly contact Banxa directly.
+
+
+4.
+Kindly check whether you are in supported countries of Banxa 
+here
+.
+Previous
+How to trade APX token on DEX
+Next
+How to check your balance (DEX)
+Last modified 
+4mo ago
+Copy link

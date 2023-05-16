@@ -1,0 +1,28 @@
+💡
+How to start trading on ApolloX?
+Go to www.apollox.finance. Click [Trade Now] to access the trading page.
+Below is the trading interface of ApolloX DEX trading platform.
+Price Chart
+With the ApolloX candlestick price chart, users can view the intraday historical pricing, or change the time interval to daily, weekly or monthly.
+ 
+Trade Sidebar
+Under the trade sidebar, you can choose your position mode, margin mode, order type, and adjust the leverage for a position.
+ 
+Order Book
+The order book shows the current open orders. For both bids and asks, it displays price, size and the sum available now. 
+ 
+Position Section
+Under the position section, users can view your current positions, open orders, order history, trade history, transaction history and assets. Users can check your unrealized PnL (uPnL), estimated liquidation price, margin ratio, and other info for their current positions. Also, you can close your position right in this window using a market or limit order.
+ 
+You may also share your position information by clicking on the "Share" button, which can be found beside your PNL (ROE %). You may select the relevant information to share before you proceed to share the generated link or download the poster. 
+Position Section
+Position Sharing Poster
+Margin Ratio Panel
+The margin ratio panel shows the current margin ratio, maintenance margin and margin balance. Margin Ratio = Maintenance Margin / Margin Balance. Maintenance margin is the minimum amount of margin balance required to keep your open positions. The margin balance is equal to Wallet Balance plus Unrealized PNL. Your positions will be liquidated once Margin Ratio reaches 100%.
+Previous
+Wallet Connection
+Next
+Deposit & Withdrawal
+Last modified 
+4mo ago
+Copy link

@@ -1,0 +1,42 @@
+💡
+ApolloX DeFi Wallet (App version)
+How do I install the ApolloX DeFi Wallet?
+ 
+The ApolloX DeFi Wallet is integrated on our ApolloX App. You can update to the latest version of our App or you can download it on Apple Store or Google Play
+ here
+ if you haven done so.
+ 
+How to create a new wallet?
+ 
+1. Open ApolloX App, click the [DeFi] button (beside CEX) on the top navigation bar.
+2. On the [DeFi] page, click [Create a new wallet] .
+​
+​
+3. Set the password and wallet name before continuing.
+​
+​
+​
+​
+4. Backup seed phrase and keep it in a safe place. Verify it by tapping the words to put them next to each other in the right order.
+​
+​
+​
+5. After that, you've created a wallet successfully! You are allowed to create an unlimited wallet in the app.
+ 
+How to import a wallet?
+You can import a new wallet by seed phrase or private key.
+ 
+How to deposit or withdraw?
+Open ApolloX App, click the [DeFi] button (beside CEX) on the top navigation bar. Login wallet using password, select a token then click Send or Recieve.
+ 
+Which tokens does ApolloX DeFi Wallet support?
+All BSC based tokens. You may need to 
+manually import some tokens
+ to see them within the ApolloX DeFi Wallet.  
+Previous
+How to find your DEX UID (App)
+Next
+The Wallet Password, Private Key and Seed Phrase
+Last modified 
+4mo ago
+Copy link

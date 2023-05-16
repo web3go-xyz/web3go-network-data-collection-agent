@@ -1,0 +1,111 @@
+Coin trend prediction
+Each spaceship has its own coin attribute. Simply put, this coin attribute represents your prediction for the price movement during exploration.
+Successful predictions boost exploration output. However, if you predict incorrectly, your output will decrease. Each successful prediction will also award points, with high scorers on the weekly, monthly, and quarterly Leaderboard receiving prizes.
+The total output increase/decrease will be affected by the exploration time and the extent of the rise/fall in the coin price.
+Exploration time
+Exploration time
+Price Tier 1
+Price Tier 2
+Price Tier 3
+15 min
++39% / -43%
++58% / -64%
++77% / -86%
+30 min
++41% / -45%
++61% / -68%
++81% / -90%
+45 min
++43% / -48%
++64% / -71%
++86% / -95%
+60 min
++45% / -50%
++68% / -75%
++90% / -100%
+Coin Prediction Threshold Tiers 
+The thresholds are calculated based on the annualized volatility of the coin. We will adjust the threshold accordingly every quarter or as market circumstances arise.
+BTC
+BTC
+Price Tier 1
+Price Tier 2
+Price Tier 3
+15 min
+±0.065%
+±0.410%
+±0.685%
+30 min
+±0.065%
+±0.410%
+±0.685%
+45 min
+±0.065%
+±0.410%
+±0.685%
+60 min
+±0.065%
+±0.410%
+±0.685%
+ETH
+ETH
+Price Tier 1
+Price Tier 2
+Price Tier 3
+15 min
+±0.075%
+±0.490%
+±0.820%
+30 min
+±0.075%
+±0.490%
+±0.820%
+45 min
+±0.075%
+±0.490%
+±0.820%
+60 min
+±0.075%
+±0.490%
+±0.820%
+BNB
+BNB
+Price Tier 1
+Price Tier 2
+Price Tier 3
+15 min
+±0.076%
+±0.487%
+±0.812%
+30 min
+±0.076%
+±0.487%
+±0.812%
+45 min
+±0.076%
+±0.487%
+±0.812%
+60 min
+±0.076%
+±0.487%
+±0.812%
+Durability Spaceship 
+Durability will decrease after each exploration, depending on the prediction outcome.
+Outcome
+Decrease in Durability
+Success
+0
+Draw
+10
+Unsuccessful 
+20
+Previous
+Fuel Fees
+Next
+Rewards
+Last modified 
+9mo ago
+Copy link
+On this page
+Exploration time
+Coin Prediction Threshold Tiers 
+Durability Spaceship 

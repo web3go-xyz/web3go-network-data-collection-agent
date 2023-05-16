@@ -1,0 +1,73 @@
+💡
+How to interact directly with the contract
+0. How to get trading pair information
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：Paris
+Response ：
+1. How to open a position at the opening price
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：openMarketTrade
+Parameters：data (tuple)
+Tuple: A tuple is an array of values e.g. [ "0x4sd…","100","100"..]. It can contain strings, integers and Boolean values. The structure for this tuple is:
+Example: If the user wants to use 100USDT to place a pending order for a BTC Long position with Price: 20000 Qty: 0.001, and the take profit price is 25000, and the stop loss price is 19000, the inPutData should be:["0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c","True","0x55d398326f99059fF775485246999027B3197955","100","10000000","2500000000000","1900000000000",1]
+2. How to place a limit order
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：createLimitOrder(
+Parameters：data (tuple)
+3. How to check user’s position information
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：getPositions
+Parameters
+user：address
+pairs：0x0000000000000000000000000000000000000000
+Response ：
+4. How to check Open Order
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：getLimitOrders
+Parameters
+user：address
+pairs：0x0000000000000000000000000000000000000000
+Response ：
+5. How to close a position
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：closeTrade
+Parameters：
+6. How to add margin
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：addMargin
+Parameters：
+7. How to adjust take profit and stop loss price
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：updateTradeTpAndSl
+Parameters：
+8. How to cancel the limit order
+Contract Address：0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0
+Method：cancelLimitOrder
+Parameters：
+Decimals Rules Summary
+
+Margin Amount Decimals：
+USDT：1e18
+USDC：1e18
+Price Decimal：1e8
+Contract Qty Decimal：1e10
+
+
+Previous
+Order Types
+Next
+ - Features & Tutorials (V1)
+General
+Last modified 
+5h ago
+Copy link
+On this page
+0. How to get trading pair information
+1. How to open a position at the opening price
+2. How to place a limit order
+3. How to check user’s position information
+4. How to check Open Order
+5. How to close a position
+6. How to add margin
+7. How to adjust take profit and stop loss price
+8. How to cancel the limit order

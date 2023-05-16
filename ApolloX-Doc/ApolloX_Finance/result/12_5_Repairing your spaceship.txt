@@ -1,0 +1,31 @@
+Repairing your spaceship
+The spaceship Durability is set at 600. Each time after exploring, the spaceship will lose Durability. Once this reaches zero, the spaceship can no longer be used. You can pay APX to repair the spaceship, which will return the Durability to 600.
+Repair fees
+The rarer the spaceship, the more expensive the Repair fees.
+​
+Repair fees schedule
+​
+Repair success rate
+Each spaceship can be repaired a maximum of 5 times, and the success rate will decrease incrementally. If the repair fails, the spaceship will not disappear but the Durability will remain at 0.
+Repaired
+Repair success rate
+0
+100%
+1
+75%
+2
+50%
+3
+35%
+4
+25%
+Previous
+Rewards
+Next
+Furnace
+Last modified 
+9mo ago
+Copy link
+On this page
+Repair fees
+Repair success rate

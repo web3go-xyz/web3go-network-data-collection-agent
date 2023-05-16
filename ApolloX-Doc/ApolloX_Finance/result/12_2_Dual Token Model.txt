@@ -1,0 +1,19 @@
+Dual Token Model
+APX
+As the governance token for ApolloXplore,  APX is required for key actions including minting and repairing spaceships, paying fuel fees, and exploring rare galaxies. You can obtain APX by various means, including trading on ApolloX and PancakeSwap, refining {Sub-Token}, achieving a spot on the Leaderboard, staking on {PlatformName} and swap farming
+Token address: 0x78F5d389F5CDCcFc41594aBaB4B0Ed02F31398b3
+🥞 PancakeSwap - A next evolution DeFi exchange on BNB Smart Chain (BSC)
+0.047200 | APXUSDT | ApolloX
+ApolloX
+rAPX 
+rAPX is used as a raw material in the Furnace, where it can be refined to obtain token. You can obtain rAPX by exploring galaxies and mining planets.
+Previous
+How to play
+Next
+Spaceship Attributes
+Last modified 
+9mo ago
+Copy link
+On this page
+APX
+rAPX 

@@ -1,0 +1,59 @@
+💡
+Learn more about how to connect wallets (Android & IOS)
+1. On the ApolloX App, click on 
+[DeFi]
+ at the top of the page.
+2. Upon clicking the 
+[DeFi]
+ tab, you will be directed to the welcome page.
+3. You may choose to link your ApolloX wallet or other Defi wallets to ApolloX DEX to start trading. 
+ 
+Linking ApolloX Wallet to the ApolloX DEX platform
+1. Select 
+[Create a new wallet]
+ and set up an ApolloX wallet if you have not registered for one. Refer to 
+ApolloX Defi Wallet
+ for more information.
+​
+​
+2. If you have registered for an ApolloX wallet, select 
+[I already have a wallet], 
+enter your password and proceed to connect to DEX with ApolloX wallet.
+​
+​
+​
+Linking Defi Wallet to the ApolloX DEX platform via WalletConnect
+1. Users who wish to link other Defi wallets, select 
+[I already have a wallet]
+ and then 
+[Connect with other wallets] 
+on the next page.
+​
+​
+​
+2.Follow the steps as shown on the page to connect your Defi wallet to ApolloX DEX platform.
+3. After completing all 4 steps, select 
+[Continue
+].
+For Android users, the app will automatically run through your device to search for a Defi wallet when you click 
+[Connect]
+. Alternatively, you may also connect your Defi wallet via QR code.
+​
+​
+​
+For iOS users, a list of Defi wallets will be populated automatically. Select the Defi wallet of your choice and click 
+[Connect]
+. Alternatively, you may also connect your Defi wallet via QR code.
+​
+​
+​
+4. Upon selecting the desired wallet, toggle back to your Defi Wallet and approve the “Connect Request” & “Signature Request” to successfully connect your wallet to ApolloX DEX platform. Otherwise, you will be prompted to approve the relevant requests when you switch back to ApolloX DEX as shown below.
+​
+​
+Previous
+How to change wallet on ApolloX (App version)
+Next
+How to find your DEX UID (App)
+Last modified 
+4mo ago
+Copy link

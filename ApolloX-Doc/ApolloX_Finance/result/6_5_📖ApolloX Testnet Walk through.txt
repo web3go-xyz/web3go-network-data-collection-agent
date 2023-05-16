@@ -1,0 +1,63 @@
+📖
+ApolloX Testnet Walk through
+This is a detailed walk-through for those who are not that familiar with crypto or DeFi. Actually, the ApolloX Testnet is not that different from other testnets.
+​
+1. Brief Intro about ApolloX Trading V2
+ApolloX is a decentralized derivatives trading platform. Users can start trading on the platform without registration or depositing funds. All transactions are executed on-chain and some trading pairs have zero slippage. This trading model has a low barrier to entry and those who hold or stake ALP can earn trading fee income and staking rewards.
+​
+2. Add BSC testnet network to your Metamask
+The ApolloX team recommends you to use a new address for testnet activities. 
+
+
+2.1 Click 'Settings' to add the BSC testnet network
+
+
+​
+​
+2.2 Click 'Networks', then add the BSC testnet as below:
+
+
+Testnet
+Network Name: Smart Chain - Testnet
+New RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+ChainID: 97
+Symbol: BNB
+Block Explorer URL: 
+https://testnet.bscscan.com
+​
+​
+2.3 Return to the main page and check that your wallet has successfully added Testnet
+3. How to get Testnet BNB?
+You will need some testnet BNB to pay for gas fees, click to copy your address to the clipboard through 
+https://testnet.bnbchain.org/faucet-smart
+. Then you will receive testnet BNB successfully. 
+
+
+For more guidance, please refer to https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+​
+4. How to get Testnet USDT&BUSD?
+If you have not gotten the test tokens yet, kindly fill in your wallet address through 
+https://docs.google.com/forms/d/e/1FAIpQLSeIIUGS6bDkjgEZoJvEvaZMwA7FdeS5TadeXf9aH-n1g2UMrg/viewform
+​
+Our team will arrange the distribution of the test USDT&BUSD quickly. Rocket NFT holders should already have the test tokens in your wallet. 
+​
+5. How to trade on ApolloX Testnet?
+First of all, please connect your wallet on 
+https://www.apollox.finance/en/futures/v2/BTCUSD
+. You can then select between market order and limit order to open the position. We also support stop loss and take profit functions, which would require you to select the percentage or input the target price manually. 
+Then, click the confirmation button to confirm the gas fee and transaction.
+After that, you will see your open positions.
+6.
+ Where to make suggestions?
+You may join our Telegram group or Discord group to provide feedback. We appreciate your time and will listen carefully to your feedback. There is a chance for users who share their suggestions and feedback to win a grand prize. For details, please refer to 
+https://apollox.zendesk.com/hc/en-us/articles/16547630740249-Trial-ApolloX-V2-Trading-on-BSC-Testnet-Win-3-000-
+ 
+
+
+Previous
+Forex
+Next
+FAQ
+Last modified 
+1mo ago
+Copy link

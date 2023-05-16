@@ -1,0 +1,20 @@
+💡
+Position management
+Users can check the details of their opened positions such as the opening price by clicking on "Position" located on the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
+Position mode
+ApolloX will use isolated leverage mode for each v2 trading pair. Pairs operate independently: 
+Each trading pair is an isolated position, Users can open multiple isolated positions
+Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
+Every isolated trading position will have its own risk rate and liquidation price, and will be settled individually
+Liquidation risk is isolated for each trading pair. If a position is liquidated, it has no effect on other positions
+Closing a position
+Users can close their positions by clicking on "Close Position".
+
+
+Previous
+How to place stop orders?
+Next
+Fees & Slippage
+Last modified 
+1mo ago
+Copy link

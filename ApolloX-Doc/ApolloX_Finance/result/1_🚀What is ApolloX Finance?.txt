@@ -1,0 +1,47 @@
+🚀
+What is ApolloX Finance?
+ApolloX is the leading decentralized solution shaping Web3 trading, consisting of decentralized crypto derivatives exchange ApolloX DEX and bespoke derivatives trading solution ApolloX DEX Engine.
+Introduction
+ApolloX Finance is a decentralized derivatives trading protocol. Users can enjoy a smooth trading experience while connecting to ApolloX with just one click through their decentralized wallets. ApolloX trading version 1 (V1) launched in 2021 offering order book perpetuals. As of April 2023, ApolloX has deployed its trading version 2 (V2) on the BSC mainnet, moving perpetual trading fully on chain to bring more transparency and decentralization, boosting the derivatives ecosystem. 
+Architecture and Implementation
+V1 Order Book Futures
+Unlike the common Automated Market Makers model (AMM) which is adopted by other decentralized exchanges, ApolloX V1 adopts the order book model, which supports futures trading. 
+Through an "off-chain transaction matching + on-chain fund settlement and custody" model, ApolloX Finance achieves high transaction performance and fast response speeds while ensuring the safety and transparency of users’ funds. Users connect their decentralized wallets to the exchange before signing and verifying the connection through a Web3 interface. They can then transfer (ERC-20/BEP-20) tokens into the smart contract for fund custody and settlement. Once the off-chain ledger is recorded, users can use the funds to trade derivatives off-chain and the PnL will be accounted for in the ledger. After settlement, users can withdraw the funds by calling the smart contract (except for the margin occupied by open positions and pending orders).
+By using off-chain order books and on-chain settlement, we aim to create an efficient, fair and trustless financial market that is not controlled by any centralized organization.
+V2 Full On Chain Transparency
+The main architecture of ApolloX V2 is the fully on-chain liquidity model for more transparent, low slippage trades. Users do not need to register, deposit or withdraw funds. All V2 trades are executed against the ALP pool on BNB Smart Chain and liquidity for all V2 trading pairs is shared via the ALP pool to maximize capital efficiency. Real time price feeds will be taken from both Binance Oracle and Chainlink to ensure the most accurate pricing. 
+For more, go to: 
+Trading V2
+​
+Benefits
+Trading on ApolloX Finance, users can enjoy the following benefits:
+Highly Intuitive: 
+Experience speed on our DEX. Trade quickly on an easy-to-use platform.
+Increased Privacy: 
+No sign-ups required. Simply connect to your own wallet and you are all set.
+Save Gas Fees: 
+Users can save gas fees paying to miners for each transaction.
+More Security: 
+Trade directly with no intermediaries. More autonomy in a decentralized environment.
+ApolloX DEX Engine
+The 
+ApolloX DEX Engine
+ is a one-stop decentralized derivatives trading solution for any business looking to launch their own derivatives DEX.
+With ApolloX’s core offering of perpetual futures, DEX Engine partners leverage ApolloX's stable trading infrastructure, deep liquidity, and market depth to introduce derivatives trading to their users, while earning commission on transaction fees. Partners enjoy:
+Customizable, branded trading interface
+Native DEX experience 
+Liquidity sharing
+Trading fees revenue sharing
+New token use case
+Dedicated client support
+​
+Next
+Brand Logo & Guidelines
+Last modified 
+1mo ago
+Copy link
+On this page
+Introduction
+Architecture and Implementation
+Benefits
+ApolloX DEX Engine

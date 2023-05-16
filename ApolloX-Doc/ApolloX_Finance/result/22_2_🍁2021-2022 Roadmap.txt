@@ -1,0 +1,26 @@
+🍁
+2021-2022 Roadmap
+ApolloX launched in 2021 as the first hybrid CEX & DEX solution for crypto derivatives. Since then, it has grown by leaps and bounds.
+Roadmap
+Recap: Key Milestones
+In Q4 2021, ApolloX launched its DEX and became the first hybrid CEX & DEX solution for crypto derivatives. 24h trading volume hit US$518,000,000, cementing ApolloX’s position in the top 5 DEXes, according to CoinMarketCap data.
+ApolloX’s native utility and governance token first listed on crypto exchange PancakeSwap with a listing price of $0.0004, in December 2021. In the same month, ApolloX introduced its Trading Rewards Program and recruited its first batch of ApolloX Champs — ApolloX community volunteers.
+To further make blockchain and crypto accessible to everyone, ApolloX integrated a fiat on-ramp solution in Q1 2022 supporting over 20 fiat currencies. It also launched the ApolloX DeFi Wallet in the ApolloX Mobile App.
+In March 2022, ApolloX launched a series of major product updates. It opened spot trading on its CEX and partnered with leading DEX PancakeSwap to offer perpetual trading to PancakeSwap’s user base. To build its multi-chain ecosystem, ApolloX also added ERC20 network support.
+ApolloX extended its perpetual trading partnership to BabySwap and Leonicorn Swap in Q1-Q2 2022. The number of APX holders grew to over 30,000 and ApolloX now has 8 local Telegram communities managed by ApolloX Champs. More importantly, ApolloX unveiled its ApolloX 2.0 plan, which included a 5.7 billion APX token burn and its transition to DAO governance.
+What to Expect
+In 2022, the team will further grow the ApolloX ecosystem to provide value to more crypto traders and expand the ApolloX brand.
+Expect limit take profit/stop loss orders for convenient in-app trading, spot trading on DEX, DEX As A Service (DAAS) and ApolloX DAO — to name a few — in the upcoming months*.
+*Roadmap may be subject to change.
+Previous
+2022 Milestones
+Next
+ - About Us
+Audit Report
+Last modified 
+2mo ago
+Copy link
+On this page
+Roadmap
+Recap: Key Milestones
+What to Expect

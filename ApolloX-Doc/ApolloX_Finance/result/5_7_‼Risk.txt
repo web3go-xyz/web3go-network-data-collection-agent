@@ -1,0 +1,18 @@
+‼
+Risk
+Users should carefully consider the possible risks when interacting with any smart contract. Although risks can be reduced through testing, auditing and other risk management measures, there could still be risk of unexpected loopholes present in smart contract code.
+
+
+Details on some risks:
+Smart Contract Risk
+Counterparty risk
+
+
+Previous
+Lite Mode
+Next
+ - Welcome
+Trading V2
+Last modified 
+4mo ago
+Copy link

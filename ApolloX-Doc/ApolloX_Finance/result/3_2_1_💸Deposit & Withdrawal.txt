@@ -1,0 +1,25 @@
+💸
+Deposit & Withdrawal
+After you successfully connect your wallet to ApolloX.Finance, you need to transfer your funds from your wallet to your Trading Account.
+Deposit:
+1. Click [
++
+] and choose the crypto currency and amount you would like to transfer. You will be able to see your balance in your Wallet.
+2. Confirm the transfer in your wallet.
+3. After transfer, you will be able to see your fund here.
+Withdraw:
+1. Click [
+Withdraw
+] and choose the crypto currency and amount you would like to transfer.
+2. Confirm the transfer in your wallet.
+3. Then, you will be able to see the fund in your wallet.
+Previous
+How to start trading on ApolloX?
+Next
+Margin Mode & Leverage
+Last modified 
+4mo ago
+Copy link
+On this page
+Deposit:
+Withdraw:

@@ -1,0 +1,27 @@
+💡
+How to bind your social media account to receive notifications
+Step 1: Go to ApolloX DEX page and click on the setting icon at the top right hand corner
+Step 2: Select “Notification”
+​
+​
+Step 3: You may select the following channel to receive notifications 
+To bind your Telegram account
+Select “On” and then “Connect”. It will lead you to the Telegram page. Click on “Start” and you are all ready to receive any notifications regarding your ApolloX DEX account transactions.
+​
+
+
+To bind your Discord account
+Select “On” and then “Connect”. It will lead you to the Discord page. 
+Copy the code shown after selecting “Connect” and send it to @ApolloXNotifyBot in the private chat to start receiving notifications!
+​
+
+
+​
+Previous
+How to change language
+Next
+ - Features & Tutorials (V1)
+All about ApolloX Mobile Application
+Last modified 
+4mo ago
+Copy link

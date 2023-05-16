@@ -1,0 +1,43 @@
+🪜
+Margin Mode & Leverage
+Choose your margin mode and leverage when opening a position.
+Select Margin Mode
+1.
+You can select your preferred margin mode when opening a position. Click 
+[Cross].
+​
+​
+2. Here, you'll see the different margin mode options. Click to select the margin mode you want to use, then click 
+[Confirm]
+.
+*Switching margin mode will only apply for the current contract.
+3. The margin mode will change once you click 
+[Confirm]
+. Remember to select the correct margin mode whenever you open or execute an order.
+Note:
+1.
+The default margin mode is set to "Cross Margin" for all contracts.
+2.
+You won't be able to change the margin mode if you have any open positions or orders.
+3.
+In Cross Margin mode, all positions under the same margin asset share the same margin balance. For example, all USDT in your Futures wallet can be used for all USDT Futures trades.
+​
+Adjust Leverage
+The default leverage multiplier on ApolloX is 20x, but you're free to adjust it. The higher the leverage multiplier, the lower the notional value of your position.
+1.
+Click the [
+20x
+] icon.
+2. Use the slider to adjust the leverage multiplier, then click [
+Confirm
+].
+3. Once you click Confirm, the leverage multiplier will be changed and the new leverage multiplier will be displayed. Double check before opening the position.
+​
+​
+Previous
+Deposit & Withdrawal
+Next
+Position Mode
+Last modified 
+4mo ago
+Copy link

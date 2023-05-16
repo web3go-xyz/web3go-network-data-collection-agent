@@ -1,0 +1,59 @@
+🎫
+Get Voting Power
+Overview: 
+veNFT (vote-escrow NFT) will be the vesting and revenue model of ApolloX DAO.
+Note: Users can obtain veNFT by staking in ApolloX DAO. veNFT is non-transferable and its power linearly depreciates with time. The power is a proof of the user’s governance vote as well as dividend weight.
+ 
+How to participate
+Step 1: Go to [Lock & get veNFT] page
+DAO APY: user’s annualized percentage yield will be calculated based on a 7 days cycle.
+Your lock-up quantity: accumulated amount of locked APX.
+Your power: the sum of the power obtained by user’s total locked APX 
+Your veNFT: the quantity of veNFT 
+Step 2: Click [Create new Vault], as shown in the following screenshot:
+Details of parameters:
+Locked quantity: Users can input the amount of APX to be locked
+Locked period: Users can choose to lock APX for 60 days, 180 days, 1 year or 4 years. 
+The lock-up time will be calculated from every Thursday. Users may see a reduction of 1 to 5 days on the actual lock-up time display on the right panel.
+Voting power: The voting power value is determined by the locked period, locked quantity and the expiry time. Click 
+here
+ to check out the formula for calculating power value.
+Unlock time: Based on current veNFT unlock time, the user’s power value will linearly depreciate as the unlock time shortens.
+Note: Once users click to lock, the process cannot be terminated halfway. Please choose the locked period carefully.
+ 
+Step 3: manage your veNFT as shown:
+Number
+Numerical value
+Paraphrase
+01
+NFT ID: 74
+User NFT ID
+02
+700 APX
+locked APX quantity
+07
+26.32
+The user's Power value, which linearly depreciates with time.
+09
+2022/08/25
+Unlock time
+04&05
+Update lock-up information
+Users can update lock-up information here, including locked quantity and locked period
+ 
+Once created, users can [manage] your cards and [claim] your rewards here.
+Details for claiming DAO rewards:
+Users will receive rewards of the previous cycle on the last day of the next cycle.
+When veNFT expires, users will need to claim the rewards first before unlocking the locked tokens.
+Expired veNFT will be destroyed.
+
+
+ApolloX DAO - 
+Previous
+How To Participate?
+Next
+ - ApolloX DAO
+DAO Staking
+Last modified 
+4mo ago
+Copy link

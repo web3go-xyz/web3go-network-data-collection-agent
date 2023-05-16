@@ -1,0 +1,16 @@
+❓
+How does it work?
+Innovative Trading Model
+
+
+Order book and market depth displays are removed. The ALP pool provides liquidity for all trading pairs to maximize capital efficiency. Users who mint ALP participate in the market-making of V2 perpetual contracts. The fluctuation in ALP token price is correlated with the value of the ALP pool and its profits and losses — PnL of the ALP pool will cause ALP price to rise or fall.
+
+
+Welcome - 
+Previous
+Trading V2
+Next
+Platform competitive advantage
+Last modified 
+1mo ago
+Copy link

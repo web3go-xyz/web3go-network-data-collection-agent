@@ -1,0 +1,31 @@
+📈
+Forex
+Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
+Day
+Open/Close for trading
+Monday
+Open
+Tuesday
+Open
+Wednesday
+Open
+Thursday
+Open
+Friday
+Closed from 22:00 UTC onwards (DST)
+Closed from 23:00 UTC onwards (Non-DST)
+Saturday
+Closed
+Sunday
+Open from 22:00 UTC onwards (DST)
+Open from 23:00 UTC onwards (Non-DST)
+In addition, the foreign exchange market will also be closed during the following public holidays:
+25th December - 27th December
+1st January - 2nd January
+Previous
+Powered by Binance Oracle and Chainlink
+Next
+ApolloX Testnet Walk through
+Last modified 
+1mo ago
+Copy link

@@ -1,0 +1,42 @@
+🤝
+Powered by Binance Oracle and Chainlink
+In the order book model, derivatives real-time price feed may not always be consistent with spot price feeds. In order to better prevent any risks that may arise from centralized oracle networks, ApolloX adopts a combination of Binance Oracle and Chainlink where price feeds from these two oracles are compared to deduce the most accurate real-time aggregated prices.
+
+
+Using Binance Oracle's price as the anchor, if the price from Binance Oracle differs from Chainlink's price by more than 1%, a circuit breaker will be triggered and the user will not be able to complete the transaction.
+
+
+All trading pairs on ApolloX platform use the oracle price of the listed assets as the index price. The platform does not generate its own prices nor does it charge any fees from users for this process.
+​
+Digital assets can experience large price fluctuations within a short period of time. As a DeFi derivatives platform, the platform must be able to access the latest market data instantly. This is especially so for on-chain trading. Binance Oracle has customized a low-latency solution exclusively for ApolloX, to avoid the risk of MEV (Maximal Extractable Value) and front-running transactions to protect on-chain derivatives transactions.
+​
+Explaining the ApolloX Oracle Architecture
+1.
+On-chain —— The user sends a transaction request and simultaneously triggers a request to obtain the latest price. 
+2.
+Off-chain —— Binance Oracle obtains the latest price request through Web3 monitoring and immediately updates the latest index-weighted average price feed.
+3.
+On-chain —— ApolloX smart contracts compare the price with Chainlink price feed to verify the accuracy of data.
+4.
+On-chain —— The user completes the transaction once all verifications are done.
+The entire price oracle validation process is decentralized. There is no single point of failure and only two blocks are required to complete the entire process.
+​
+Binance Oracle Index price
+The Binance Oracle Index price is a composite index derived from a basket of prices from major spot market exchanges, weighted by their respective trading volumes. Referenced trading markets include: Binance, Huobi, OKX, Bittrex, HitBTC, Gate.io, Bitmax, Bitfinex, Coinbase, Bitstamp, Kraken, Binance US and Bybit.
+We also take additional protective measures to avoid poor market performance caused by interruptions and connectivity problems in spot markets. These protective measures are as follows:
+Price Deviation from a Single Source:
+When the Last Price of a particular exchange deviates more than 5% from the Median Price of all price sources, the price weight of that exchange will be set to zero.
+Price Deviation from Multiple Sources:
+If the Last Price of more than 1 exchange shows a deviation greater than 5%, the Median Price of all price sources will be used as the index value instead of the weighted average.
+Exchange Connectivity Problems:
+If we can't access the data feed for an exchange that had trades updated in the most recent 10 seconds, we can use price data from the latest result to calculate the Price Index.
+If the trade data for an exchange has not been updated for 10 seconds, the weight of this exchange will be set to zero when calculating the weighted average.
+
+
+Previous
+Platform competitive advantage
+Next
+Forex
+Last modified 
+1mo ago
+Copy link

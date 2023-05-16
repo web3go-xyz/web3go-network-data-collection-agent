@@ -1,0 +1,16 @@
+💡
+ApolloX LP Dashboard Parameters
+The 
+ApolloX LP Dashboard
+ page shows the composition of tokens in the ALP liquidity pool. Users can buy, sell, stake, unstake APL and claim staking rewards on this page.
+ALP price
+If the price of non-stable assets in the ALP liquidity pool increases, ALP will increase and vice versa. The ALP liquidity pool acts as a counterparty to ALP-PERP traders. If the ALP pool makes a profit while ALP-PERP traders incur a loss, the price of ALP will increase and vice versa
+ALP total supply: ALP liquidity pool value/ALP value
+ALP liquidity pool composition: The initial stage supports USDC, USDT and ETH. Users can view this information on the dashboard page.
+Previous
+Opening a position
+Next
+Position management
+Last modified 
+1mo ago
+Copy link

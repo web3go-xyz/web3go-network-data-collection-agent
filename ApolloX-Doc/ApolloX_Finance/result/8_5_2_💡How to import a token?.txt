@@ -1,0 +1,26 @@
+💡
+How to import a token?
+1. Open DeFi wallet on ApolloX app, select a wallet you need to add tokens, click [Import Tokens] to add the tokens.
+​
+​
+2. Enter the contract address of the token. After you’ve pasted the address of the token, the “Symbol” and the “Decimal” field should be auto-populated. Click [Import] to complete.
+​
+​
+ 
+Example: 
+If user import APX, the token information should be:
+Token Address: 0x78f5d389f5cdccfc41594abab4b0ed02f31398b3
+Symbol: APX
+Decimal: 18
+ 
+Notes:
+You will only be able to import tokens on the BSC network currently. Keep in mind that if you send a token to the wrong network, your funds will be lost and you won’t be able to retrieve them.
+Users should confirm the accuracy of token information, including but not limited to token address, decimal, and symbol, when importing tokens. Please make sure to confirm the correctness of the information several times when adding. 
+Previous
+The Wallet Password, Private Key and Seed Phrase
+Next
+ - Features & Tutorials (V1)
+All about ApolloX Web
+Last modified 
+4mo ago
+Copy link

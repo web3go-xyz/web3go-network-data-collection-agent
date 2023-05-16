@@ -1,0 +1,20 @@
+💡
+What is Gas Fee?
+Gas fees are the incentives to miners to process transactions on the blockchain and to verify and secure the network. Gas fees do not go to ApolloX. Gas fees are determined by the Gas Price (GWEI) and the Gas Limit consumed. The Gas price depends on the network congestion and the Gas amount depends on the number of instructions involved in the transaction.
+ 
+The calculation formula is: Gas Fees= Gas Limit x Gas Price
+ 
+You can set the gas limit yourself when performing the transaction. It is important to note that the number of gas units required to complete a transaction depends on the complexity of the transaction. When a transaction is complex, it consumes more computing resources, hence the need to spend more Gas.
+ 
+Gas Price refers to the number of Gwei, which affects how quickly your transactions are packaged by miners and put on the blockchain. If the Gas Price is set higher, it will give miners more incentive to package your transactions; Conversely, if gas price is set low, it will take longer time. If you're not in a hurry to close a deal, you can choose a lower Gas Price to save money. In each transaction, you can adjust the Gas Limit and Gas Price to suit your needs.
+ 
+Notes: 
+The gas fee for BSC is BNB. Please ensure that you have enough BNB in your wallet before proceeding with any transactions.
+Features & Tutorials (V1) - 
+Previous
+General
+Next
+How to switch network?
+Last modified 
+4mo ago
+Copy link

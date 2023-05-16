@@ -1,0 +1,38 @@
+TP/SL orders (Strategy Order)
+When placing a Limit Order, you will be able to set the [Take Profit] and [Stop Loss] orders simultaneously.
+ 
+Click [Limit] and enter the order price and size. Then, check the box next to [TP/SL] to set the [Take Profit] and [Stop Loss] prices based on the [Last Price] or [Mark Price]. Next, click [Buy/Long] or [Sell/Short] to place the order.
+ 
+*You can only select either [TP/SL] or have enabled [Reduce-only] in a single order.
+ 
+Please note that if you are using the [Hedge mode] , the [TP/SL] function is only available for [Open] orders.
+ 
+You can check your orders under the [Open Orders] tab and Click [View] under [TP/SL] to view order details.
+ 
+When an order is triggered, you can add or modify the TP/SL under the [Positions] tab. This will be applied to the entire position.
+ 
+Currently, excluding Trailing Stop Order, only Limit, Market, Stop Limit, Stop Market, and Post Only Orders are supported under the [TP/SL] function.
+ 
+These orders are executed through the strategy order. ApolloX supports One-Triggers-a-One-Cancels-the-Other (OTOCO). 
+ 
+In an OTOCO order, if the primary order is filled or partially filled, the secondary order will take effect (either Take Profit or Stop Loss). If TP is filled, SL will be canceled, and vice versa. This is also called an OTO order.
+ 
+Note: If the trigger price of the secondary order is too close to the primary order, it is highly likely that the secondary order will be canceled when the primary order is executed. We recommend users to set an ample price distance between the primary and secondary orders.
+ 
+Users can set multiple Take Profit and Stop Loss orders for each of their Long or Short positions. Note that the Take Profit and Stop Loss orders will be executed in the order that they were placed until the cumulative size of these orders meets the same size of the primary Long or Short position. You can click [View] under [TP/SL] on the primary order to view unfulfilled TP/SL.
+ 
+Advanced TP/SL
+We have launched the advanced TP/SL function recently, when you place the order and enter the percentage，you will get the【Taker profit】and【Stop loss】price automatically. You need to enable the advanced TP/SL first in settings as below:
+ 
+Then you could choose the trigger condition between mark price and last price, enter your preferred percentage, then place the order：
+ 
+You could select between limit TP/SL order and Market TP/SL order. Please note, the stop loss /take profit price will update automatically if you do not place the order immediately. 
+
+
+Previous
+Order Types
+Next
+Closing Positions
+Last modified 
+4mo ago
+Copy link

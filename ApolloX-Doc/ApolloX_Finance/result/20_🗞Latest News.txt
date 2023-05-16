@@ -1,0 +1,270 @@
+🗞
+Latest News
+LatestNews
+11/4/2023 ApolloX Unveils Product Roadmap Spoiler
+ApolloX plans to launch V2 on BNB Chain mainnet, expand V2 to DEX Engine partners and launch V1 on zkSync mainnet. 
+Link
+​
+27/3/2023 ApolloX Deploys V2 Trading on BSC Testnet
+V2 Trading has officially deployed on BSC Testnet. Be one of the first to trial our newest un-launched product! 
+Link
+​
+16/3/2023 ETH Asset is Added to ALP Pool
+Ether (ETH) has been added into the ALP pool to increase the variety of ALP assets and diversify the holding position of the pool. 
+Link
+ 
+10/3/2023 ApolloX Launches Revamped Champs Program
+For those looking to grow your social media channels and community, the ApolloX Champs Program is back bigger and better! 
+Link
+​
+9/3/2023 ApolloX Launches Forex Perpetual Contracts
+ApolloX has officially launched EURBUSD & GBPBUSD perpetual contracts, the first foreign exchange (FX) perpetual contracts on ApolloX. 
+Link
+​
+27/2/2023 APX-BNB LP Staking Pool Goes Live
+APX rewards for LP Staking has migrated to the APX-BNB staking pool. 
+Link
+​
+21/2/2023 ApolloX launches Golden Dragon China (GDC) Index Perpetual Contract 
+ApolloX has launched the Golden Dragon China Index perpetual contract (“GDCBUSD Perpetual Contract”) with up to 20x leverage on 2023-02-21 at 09:00 (UTC). 
+Golden Dragon China Index Perpetual Contract is a new cryptocurrency price index that tracks the ​​top Chinese tokens or tokens with Chinese origins (by market capitalization) listed on mainstream spot exchanges. 
+Link
+​
+9/2/2023 ApolloX launches AI Token Index Perpetual Contract
+ApolloX has launched the AI Token Index perpetual contract (“AIBUSD Perpetual Contract”) with up to 20x leverage on 2023-02-09 at 10:00 (UTC).
+AI Token Index is a new cryptocurrency price index that tracks the ​​top AI tokens (by market capitalization) listed on mainstream spot exchanges. 
+Link
+​
+15/2/2023 1/7 ALP-PERP Fees Injected into ALP Pool
+ApolloX has added 1/7 of trading fees collected from ALP-PERP trading into the ALP pool. 
+Link
+​
+12/1/2023 Perpetuals DEX ApolloX Debuts High-Yield Staking & Zero-Slippage Trading in Lite Mode
+​
+ApolloX
+, the biggest decentralized derivatives exchange on BNB Chain, is launching new product ALP and new trading mode Lite Mode for high-yield staking and zero-slippage trading.
+​
+ALP
+ is the platform’s liquidity provider token representing a basket of assets — BUSD, USDT and BNB. ApolloX Lite Mode is a new trading interface hosting ALP-PERP contracts. The ALP liquidity pool supplies liquidity for ALP-PERP markets and is the counterparty for all BUSD contracts trading in Lite Mode.
+The launch of ALP and Lite Mode is expected to boost on-chain trading volume and total value locked on ApolloX and BNB Chain, benefiting the ecosystem and users. 
+Link
+​
+25/11/2022 ApolloX Will wind down CEX and focus on DEX moving forward
+Dear users, ApolloX will be winding down the ApolloX CEX in phases from 25 November 2022 to 16 January 2023. We are doing so to focus our resources on the development of ApolloX 2.0 and improve on the degree of decentralization of the DEX ecosystem. We will be adjusting our operating strategy for this cause.
+At the same time, we will be launching the campaign 
+Experience DEX & Win up to 18,000 APX!
+ to thank our CEX users for the support they have given us. We welcome all users to experience trading using the ApolloX DEX platform! 
+Link
+​
+21/10/2022 ApolloX Multi-Assets Mode Now Supports HAY
+Dear ApolloX users, ApolloX upgraded its Multi-Assets Mode on 20 October 2022 (UTC) to support HAY as margin asset. Users can now use HAY, cUSDT, vUSDT, USDC, BNB, ETH, CAKE, BUSD & USDT as the margin assets for Multi-Assets Mode. 
+Link
+​
+19/9/2022 ApolloX DEX Will Build a Multi-chain Ecosystem, Supporting Arbitrum Network
+To provide users with a better trading experience, ApolloX DEX added the Arbitrum Network on 19 September 2022 to our multi-chain ecosystem. Users can now choose to interact with BSC, ERC20 or Arbitrum Network when connecting wallets on the DEX platform. 
+Link
+​
+31/8/2022 ApolloX Celebrates 1st Anniversary!
+A year ago, ApolloX launched to fulfill demand for an accessible and decentralized crypto derivatives trading platform. As retail interest shifts to decentralized exchanges and derivatives products becomes increasingly popular, ApolloX provides tools to empower the crypto trader and contributes to the growth of the industry. Industry heavyweights recognize this: In June 2022, ApolloX DEX secured seed funding from Binance Labs, Kronos Research and five others.
+Today, ApolloX has cemented its position as a derivatives leader shaping the future of Web3 trading. 
+DeFi is the future and ApolloX has only scratched the surface of its potential. While ApolloX celebrates this milestone, we remain committed to providing viable, accessible solutions for both traders and businesses to thrive in Web3.
+Thank you for your continuous support and love for ApolloX! 
+Link
+​
+24/8/2022 ApolloX DEX Launches Online Chat Room Function
+The ApolloX DEX platform has launched a chat room function. Through the chat room, ApolloX users can discuss their best trading strategies and share about the latest market news. Users can also provide feedback on various problems encountered on the platform during the trading process. 
+Link
+​
+16/8/2022 ApolloX DEX Perpetual contract referral rebate function
+Dear Users, ApolloX DEX has now launched the perpetual contract invitation rebate function. Every user you invite to participate in perpetual trading will entitle you a 20% commission rebate reward, and the rebate period is 365 days. 
+Link
+​
+16/8/2022 Daily Rewards Program Goes Live: Claim Your APX Rewards Now
+ApolloX will be launching the Daily Rewards Program from 26 August 2022 onwards. Users stand a chance to claim APX when they access ApolloX DEX! Users who trade any futures contract with a target minimum trading volume on ApolloX DEX or PancakeSwap will have the opportunity to claim a reward of 20 APX at 02:00 UTC the next day. 
+Link
+​
+2/8/2022 ApolloX Multi-Assets mode now supports cUSDT & vUSDT
+ApolloX upgraded its Multi-Assets Mode on August 02 2022 (UTC) to support cUSDT and vUSDT as margin assets. Users can now use cUSDT, vUSDT, USDC, BNB, ETH, CAKE, BUSD & USDT as the margin assets for Multi-Assets Mode. 
+Link
+​
+7/6/2022 Crypto DEX ApolloX Secured Seed Funding
+​
+ApolloX
+, one of the top 10 decentralized exchanges (DEXes) on CoinMarketCap as of June 2022, announced today that it has secured an undisclosed amount in seed funding from investors including Binance Labs and Kronos Research.
+Other investors who participated in the round include Lingfeng Capital, SafePal, TokenPocket, 3Commas and LUX Capital.
+The strategic funding will help ApolloX expand its current product and build new product lines in the ecosystem —  including spot trading, predict-to-earn, and DEX-as-a-Service. Since its launch in September 2021, ApolloX continues to see stellar growth, with cumulative trading volume hitting $158.87 billion in May 2022. 
+Link
+​
+26/5/2022 ApolloX Multi-Assets mode will now support USDC, BNB & ETH
+ApolloX upgraded its Multi-Assets Mode on 1 June 2022 to support USDC, BNB & ETH as margin assets. Users can now use USDC, BNB, ETH, CAKE, BUSD and USDT as the margin assets for Multi-Assets Mode. 
+Link
+​
+13/5/2022 ApolloX launches a lock-up program for APX trading fee proceeds
+Dear users, since the launch of ApolloX DEX 6 months ago, APX trading fee proceeds on our platform has exceeded 50,000,000 APX. In order to increase the transparency of our DEX, ApolloX will launch the APX trading fee proceeds lock-up program. 
+Part of APX trading fee proceeds will be transferred to a designated address and locked in the address. The lock-up period will be one year and these tokens will not be circulating in the market. The first batch of locked tokens will be 50,000,000 APX. Subsequently, ApolloX will continue to transfer the APX fee proceeds to the designated address. Users will be able to check this on-chain activity at any time. 
+Link
+​
+7/4/2022 The Launch of ApolloX 2.0 Announcement of Token Burn Plan and the Launch of DAO Governance Model
+ApolloX launched seven months ago and the platform has since achieved a remarkable ranking and transaction volume, placing itself at the forefront of the market. At the same time, it has established an in-depth cooperation with leading DEX PancakeSwap.
+In the near future, ApolloX will actively cooperate with DeFi projects and continuously improve on the degree of decentralization. We aim to provide users with a better platform experience by exploring user-centric metrics that will help fulfill our vision of web 3.0.
+With this goal and vision in mind, ApolloX will leverage market trends, execute its 2.0 plan, as well as launch the APX token burn plan and ApolloX DAO model. 
+Link
+​
+30/3/2022 ApolloX DEX Will Build a Multi-chain Ecosystem, Supporting Ethereum Network (ERC20)
+ApolloX DEX will be adding Ethereum (ERC20) network to our multi-chain ecosystem. This is to provide users with a much better platform experience in addition to the BNB Smart Chain (BSC) network. When connecting wallets on the DEX platform, users can choose to interact with either BSC or ERC20 network. 
+Link
+​
+7/3/2022 ApolloX Will Launch New GameFi Product on DEX — NFT Lottery Game
+Dear ApolloX Users, ApolloX will launch our brand new GameFi product: NFT Lottery Game. Users can start playing the game from 08:00 AM (UTC) on March 17, 2022. Through the NFT Lottery Game, users can create unique, customisable NFTs, share prize pool bonuses and even earn additional trading rebates! 
+Link
+​
+21/2/2022 ApolloX launches DeFi Wallet
+In order to provide better services to our users and increase the security of funds, ApolloX has launched a DeFi Wallet, which allows users to access the ApolloX DEX trading platform within the app. ApolloX DeFi Wallet is a mobile wallet that combines security and anonymity and it allows users to send, receive and store BEP20 (BSC) tokens. Users can update to the latest version of the ApolloX app to experience the latest features. 
+Link
+​
+10/2/2022 ApolloX integrates with Banxa to offer Fiat to Crypto services
+Dear ApolloX users, we are excited to announce a partnership with 
+Banxa
+ to provide fiat on-ramp services to all ApolloX users. Starting today February 10, 2022, ApolloX users will be able to 
+easily convert fiat into crypto
+ via Banxa for trading on ApolloX DEX. 
+Link
+​
+20/1/2022 ApolloX Launches DEX Leaderboard Program 2.0
+Dear ApolloX users, ApolloX is pleased to launch the 
+DEX Leaderboard Program 2.0
+. Compared to the DEX Leaderboard Program that we launched on 13 January 2022, Leaderboard Program 2.0 has two major changes. 
+Link
+​
+27/12/2021 ApolloX Will Launch Trading Rewards Program on 28th December — Lock APX to Boost Your Rewards
+Dear ApolloX Users, ApolloX will officially start the Trading Rewards Program on 28th December 2021. Users can obtain APX token rewards by trading any contract on DEX and locking APX to get bonus rewards. 
+Link
+​
+16/12/2021 ApolloX Launches Multi-Assets Mode
+We’ve officially launched the ApolloX Community Champ program! This is a volunteer program that will allow community handraisers to join us in building the ApolloX Community together. If you’re looking to represent the world’s first leading CEX-DEX hybrid crypto derivatives exchange, sign up as a Champ now. 
+Link
+​
+​
+Dear ApolloX Users:
+ApolloX will officially launch its native token APX with a total supply of 10 billion. From 16th December 2021 00:00 (UTC), ApolloX will kickstart its Retroactive Mining Rewards Program. 3.5% of APX total supply will be allocated to users who have been with us since our early days. For more information, please see 
+Retroactive Mining Rewards
+. 
+Link
+​
+9/12/2021 ApolloX Launches DEX Leaderboard Program, Millions In Rewards To Be Won
+Dear ApolloX users, ApolloX is excited to announce the launch of our 
+Leaderboard Program
+ for our Decentralised Exchange (DEX), which will start from 13 January, 2022 00:00 AM (UTC). 
+Link
+​
+9/12/2021 ApolloX Launches Multi-Assets Mode
+Dear ApolloX Users, Multi-Assets Mode will be officially launched on Dec 10th, 2021 at 09:30 AM (UTC). It will be live on both the ApolloX website and mobile app. Users can now deposit in BUSD and use both USDT & BUSD as the margin assets. 
+Link
+​
+14/11/2021 ApolloX Launches World's First Hybrid Derivatives Exchange
+​
+ApolloX
+, the world’s first centralized and decentralized (CEX-DEX) hybrid derivatives exchange, is excited to announce its 
+DEX launch
+ today. 
+ApolloX aims to provide incredible accessibility and anonymity to derivatives trading for both new and experienced traders. Users can quickly and easily trade short or long positions in a wide selection of USDT-based perpetual futures contracts with up to 100x leverage. 
+The ApolloX DEX facilitates increased privacy through a non-custodial, trustless environment. Users bypass a sign-up process and simply need to connect to their wallets to start gas-free trading. 
+Depending on their priorities, users may freely choose to trade on either or both the CEX and DEX exchanges. Both CEX and DEX offer enhanced security measures including 2FA and address whitelisting. 
+Link
+​
+28/10/2021 ApolloX Officially Launches Mobile App on IOS App Store
+Dear ApolloX Users, we are pleased to announce that the ApolloX Mobile App has been officially launched on the IOS App Store. Users can enjoy services such as deposit, withdrawal, convert, transfer, and futures trading on the App now. 
+Link
+​
+27/10/2021 ApolloX Officially Launches Mobile App on Google Play Store
+Dear ApolloX users, we are pleased to announce that the ApolloX Mobile App (Android version) has been officially launched on Google Play store. Users can enjoy services such as deposit, withdrawal, convert, transfer, and futures trading on the App now. 
+Link
+​
+Risk Reminder: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from ApolloX. ApolloX will not be liable for any loss that might arise from your use of ApolloX. 
+18/10/2021 ApolloX Opens Deposit Service of ADA, SOL & DOGE on BSC networks
+Dear ApolloX Users, ApolloX now supports deposit service of ADA, SOL and DOGE on the BSC network. Users are welcome to deposit ADA, SOL and DOGE into their account’s funding wallet on ApolloX now. 
+Link
+​
+9/9/2021 ApolloX Will Open Deposit Service of BNB, ETH & XRP across multiple networks
+Dear ApolloX Users, ApolloX will support deposit service of BNB, ETH and XRP at 2021-09-09 10:00 AM (UTC). Users are welcome to deposit BNB, ETH and XRP on ApolloX now. 
+Link
+​
+31/8/2021 ApolloX Launches Instant Exchange Portal, First Launch BTC & USDT
+To provide better services to our users, ApolloX has launched the Instant Exchange portal. Under the 
+Instant Exchange page
+, users can now convert cryptocurrencies swiftly. BTC and USDT will be the first cryptocurrencies launched. 
+Link
+​
+26/8/2021 ApolloX Introduces Its New Crypto Derivatives Exchange
+​
+ApolloX
+ is excited to announce the launch of its new crypto derivatives exchange - built for everyone! 
+Designed by crypto enthusiasts and traders, ApolloX is especially designed for the wider public as cryptocurrencies continue to gain mainstream acceptance. The platform focuses on making crypto accessible to all users, and not just expert traders. 
+ApolloX aims to bring trustworthiness and customer-centricity with a new innovative approach, and establish itself as the preferred crypto exchange by exceeding industry standards. 
+Link
+​
+10/12/2021 ApolloX Will Officially Launch its Token APX and Start Retroactive Mining Rewards Program
+ApolloX will officially launch APX token with a total supply of 10 billion. From 16th December 2021 00:00 (UTC), ApolloX will kickstart its Retroactive Mining Rewards Program. 3.5% of APX total supply will be allocated to users who have been with us since our early days. 
+This program is to reward users with early contributions to ApolloX and is by invite only. 
+Link
+​
+25/8/2021 Earn up to 70% Commission with the ApolloX Affiliate Program
+The ApolloX Affiliate Program is officially live! ApolloX is looking for KOLs, content creators, community leaders and organisations who align with our mission and values to help us promote our crypto derivatives exchange.
+Starting 
+September 15, 2021 at 08:00:00 AM (UTC)
+, ApolloX Affiliates will be able to refer new users to our exchange to earn rebates of up to 
+70%
+ of trading fees paid by their referees. 
+Link
+​
+​
+API - 
+Previous
+API Documentation
+Next
+ - Community
+Social Media & Communities
+Last modified 
+1mo ago
+Copy link
+On this page
+11/4/2023 ApolloX Unveils Product Roadmap Spoiler
+27/3/2023 ApolloX Deploys V2 Trading on BSC Testnet
+16/3/2023 ETH Asset is Added to ALP Pool
+10/3/2023 ApolloX Launches Revamped Champs Program
+9/3/2023 ApolloX Launches Forex Perpetual Contracts
+27/2/2023 APX-BNB LP Staking Pool Goes Live
+21/2/2023 ApolloX launches Golden Dragon China (GDC) Index Perpetual Contract 
+9/2/2023 ApolloX launches AI Token Index Perpetual Contract
+15/2/2023 1/7 ALP-PERP Fees Injected into ALP Pool
+12/1/2023 Perpetuals DEX ApolloX Debuts High-Yield Staking & Zero-Slippage Trading in Lite Mode
+25/11/2022 ApolloX Will wind down CEX and focus on DEX moving forward
+21/10/2022 ApolloX Multi-Assets Mode Now Supports HAY
+19/9/2022 ApolloX DEX Will Build a Multi-chain Ecosystem, Supporting Arbitrum Network
+31/8/2022 ApolloX Celebrates 1st Anniversary!
+24/8/2022 ApolloX DEX Launches Online Chat Room Function
+16/8/2022 ApolloX DEX Perpetual contract referral rebate function
+16/8/2022 Daily Rewards Program Goes Live: Claim Your APX Rewards Now
+2/8/2022 ApolloX Multi-Assets mode now supports cUSDT & vUSDT
+7/6/2022 Crypto DEX ApolloX Secured Seed Funding
+26/5/2022 ApolloX Multi-Assets mode will now support USDC, BNB & ETH
+13/5/2022 ApolloX launches a lock-up program for APX trading fee proceeds
+7/4/2022 The Launch of ApolloX 2.0 Announcement of Token Burn Plan and the Launch of DAO Governance Model
+30/3/2022 ApolloX DEX Will Build a Multi-chain Ecosystem, Supporting Ethereum Network (ERC20)
+7/3/2022 ApolloX Will Launch New GameFi Product on DEX — NFT Lottery Game
+21/2/2022 ApolloX launches DeFi Wallet
+10/2/2022 ApolloX integrates with Banxa to offer Fiat to Crypto services
+20/1/2022 ApolloX Launches DEX Leaderboard Program 2.0
+27/12/2021 ApolloX Will Launch Trading Rewards Program on 28th December — Lock APX to Boost Your Rewards
+16/12/2021 ApolloX Launches Multi-Assets Mode
+9/12/2021 ApolloX Launches DEX Leaderboard Program, Millions In Rewards To Be Won
+9/12/2021 ApolloX Launches Multi-Assets Mode
+14/11/2021 ApolloX Launches World's First Hybrid Derivatives Exchange
+28/10/2021 ApolloX Officially Launches Mobile App on IOS App Store
+27/10/2021 ApolloX Officially Launches Mobile App on Google Play Store
+18/10/2021 ApolloX Opens Deposit Service of ADA, SOL & DOGE on BSC networks
+9/9/2021 ApolloX Will Open Deposit Service of BNB, ETH & XRP across multiple networks
+31/8/2021 ApolloX Launches Instant Exchange Portal, First Launch BTC & USDT
+26/8/2021 ApolloX Introduces Its New Crypto Derivatives Exchange
+10/12/2021 ApolloX Will Officially Launch its Token APX and Start Retroactive Mining Rewards Program
+25/8/2021 Earn up to 70% Commission with the ApolloX Affiliate Program

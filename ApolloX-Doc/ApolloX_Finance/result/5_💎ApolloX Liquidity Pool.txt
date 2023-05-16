@@ -1,0 +1,15 @@
+💎
+ApolloX Liquidity Pool
+ALP is the ApolloX platform’s liquidity provider token. Users can become liquidity providers by using any of the specified assets to buy ALP. Trading PnL is credited to ALP asset value, hence users can profit when ALP asset value increases. Users can also stake ALP to earn APX rewards.
+The initial issue price of ALP is USD$1. Users who buy and stake ALP participate in ALP-PERP market making. The fluctuation of ALP price is correlated with the value of the liquidity pool and its trading PnL. Thus, the price of ALP changes accordingly with the profit or loss of the liquidity pool.
+In future, ApolloX will support more utility of ALP on the platform such as earning transaction fee rewards, using ALP as margin for perpetual trading and participation in DAO governance and voting.
+ALP contract address: 0x4E47057f45adF24ba41375a175dA0357cB3480E5
+ALP represents a basket of tokens. The initial phase supports tokens USDC, USDT and ETH.
+Note: After buying ALP, users cannot transfer it to other wallet addresses. Currently, only selling, staking and unstaking functions are supported.
+Previous
+Tax
+Next
+How to buy ALP?
+Last modified 
+1mo ago
+Copy link

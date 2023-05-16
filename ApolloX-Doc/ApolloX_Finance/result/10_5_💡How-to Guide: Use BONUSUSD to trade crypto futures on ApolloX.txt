@@ -1,0 +1,37 @@
+💡
+How-to Guide: Use BONUSUSD to trade crypto futures on ApolloX
+ApolloX has launched a futures bonus token (BONUSUSD) for users who trade on ApolloX DEX. 
+ 
+BONUSUSD is a futures bonus token issued by ApolloX. BONUSUSD is a unique USD-pegged token which traders can use as collateral to trade crypto futures on ApolloX DEX!
+ 
+Note: BONUSUSD is a futures bonus token and cannot be withdrawn. 
+Multi-assets mode 
+has to be activated to use BONUSUSD as collateral.
+ 
+How-to Guide
+ 
+Step 1: Go to ‘Futures’ on ApolloX DEX main page to check your asset balance. Your BONUSUSD tokens will have been automatically credited to your balance after sending it to the ApolloX Exchange Treasury Contract.
+Step 2: Scroll down & select BONUSUSD to check your balance
+Step 3: (Skip this step if multi-asset mode is already enabled.) Enable 
+Multi-Assets Mode
+ to use BONUSUSD as collateral. On the Futures page, scroll down to ‘Margin Ratio’ & select [Multi-Assets Mode].
+​
+
+
+Step 4: Choose the preferred perpetual contract from the dropdown list. Set your preferred leverage.
+
+
+Step 5: Set your preferred position mode under [Preferences]. Choose between One-Way Mode and Hedge Mode. Next, choose your order type. ApolloX offers Limit, Market, and Stop Limit orders.
+
+
+Step 6: Monitor your position(s) and close them based on your exit strategy. All your positions are listed in the [Positions] tab. 
+ 
+Note: BONUSUSD is a futures bonus token and cannot be withdrawn. Only profits generated from trades using BONUSUSD as collateral can be withdrawn. 
+Previous
+How to use Multi-Assets Mode
+Next
+ - Programs
+V2 Trading Rewards Program
+Last modified 
+2mo ago
+Copy link
