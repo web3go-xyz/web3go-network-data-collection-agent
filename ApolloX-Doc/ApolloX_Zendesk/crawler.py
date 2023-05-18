@@ -3,6 +3,8 @@ import http.cookiejar
 from bs4 import BeautifulSoup
 import re
 import os
+import ssl
+
 
 _BASE_URL = 'https://apollox.zendesk.com/hc/en-us'
 _FILE_BASE_PATH = '/Users/zhangqixin/web3go_workspace/web3go_github/web3go-network-data-collection-agent/ApolloX-Doc/ApolloX_Zendesk/result/'
@@ -11,29 +13,15 @@ __MEAU_CLASS = 'css-175oi2r r-1yzf0co r-1sc18lr'
 
 def getHTML(url):
     cookieJar = http.cookiejar.CookieJar()
-    opener = urllib.request.build_opener(
-        urllib.request.HTTPCookieProcessor(cookieJar))
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cookieJar))
     opener.addheaders = [
-    ('Authority', 'apollox.zendesk.com'),
-    ('Method', 'GET'),
-    ('Path', '/hc/en-us'),
-    ('Scheme', 'https'),
-    ('accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'),
-    ('accept-encoding', 'gzip, deflate, br'),
-    ('accept-language', 'zh-CN,zh;q=0.9'),
-    ('cache-control', 'max-age=0'),
-    ('cookie', '__cfruid=fa8dca6ab896fcb589f19f2421de873f80e77be5-1684222964; __cf_bm=rfk_02beXmG9CkubY1LFNsirN0pwUOZJ_jeeL9SiYsQ-1684239547-0-AUqEE1jJ4UoHRaAeMiu7NoIyWgE69hFYQot5PYCF3kavs+EK+N2gmA/R81vCQDZiykSWMlo/3RnchR1Hz//ZVy2zaWGIHGYDzqW5e322dugW; _help_center_session=SUtuRkQvb0psUk51THExbjZZZmwxQkJzSk5od0RYNW5oamVDRGNXYWFvM2MxNDYvd0dIdzB0M1ZULy9zdUdDOVN6b21XbVJPVE52UDVDL1M4eU9pOFZLaERFNWtremJrRlN2RXIvZnFMbTc2OG02Rk4zVzNVTmRxZzV6MzBuRmotLVVoTEE5UnR5VlBlLytzQjVEd0k1QWc9PQ%3D%3D--4dc2c2f088ffa55e213eafed887fe7d7d5f89c0d'),
-    ('if-none-match', 'W/"db98ca9dd22cab3e21fe91a9e5a5999f"'),
-    ('referer', 'https://apollox.zendesk.com/hc/zh-cn'),
-    ('sec-ch-ua', '" Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"'),
-    ('sec-ch-ua-mobile', '?0'),
-    ('sec-ch-ua-platform', '"macOS"'),
-    ('sec-fetch-dest', 'document'),
-    ('sec-fetch-mode', 'navigate'),
-    ('sec-fetch-site', 'same-origin'),
-    ('sec-fetch-user', '?1'),
-    ('upgrade-insecure-requests', '1'),
-    ('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36')]
+        ('Host', 'apollox.zendesk.com'),
+        ('Accept-Encoding', 'gzip, deflate, br'),
+        ('Connection', 'keep-alive'),
+        ('Accept-Language', 'zh-CN,zh-Hans;q=0.9'),
+        ('Accept', 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'),
+        ('User-Agent', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15')
+    ]
     urllib.request.install_opener(opener)
     response = urllib.request.urlopen(url)
     print("==> "+response.getcode())
@@ -140,9 +128,30 @@ if __name__ == '__main__':
     os.mknod(home_file)
     home = open(home_file, mode='w')
     home.write(html_doc)
-    # soup = BeautifulSoup(html_doc, 'html.parser')
-    # head_soups = parseHead(soup)
-    # parseNext(head_soups, soup)
-    # parseIndex(soup)
-    # print(soup.title)
-    # download(_BASE_URL)
+
+    soup = BeautifulSoup(html_doc, 'html.parser')
+    head_soups = parseHead(soup)
+    parseNext(head_soups, soup)
+    parseIndex(soup)
+    print(soup.title)
+    download(_BASE_URL)
+
+    # headers = {'user-agent':'mozilla/5.0'}
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'Accept-Language': 'zh-CN,zh-Hans;q=0.9',
+                'Connection': 'keep-alive',
+                'Accept-Encoding': 'gzip, deflate, br',
+                'Host': 'apollox.zendesk.com'}
+
+    '''
+    使用Request类添加请求头可以不使用headers这个参数。而使用这个类的实例化对象的方法
+    add_header(key='user-agent',val='mozilla/5.0')
+    '''
+
+    add = urllib.request.Request(url=_BASE_URL,headers=headers)
+
+    r = urllib.request.urlopen(url=add)
+    print(r.code)
+
